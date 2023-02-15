@@ -1,0 +1,208 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "gradingApproach": "automatic",
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": "What is attrubute and where do we write?"
+                    }
+                  ],
+                  "id": "4237599631",
+                  "type": "p"
+                }
+              ],
+              "id": "2551927624"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": "\nThis attribute is written in html tag\n"
+                    }
+                  ],
+                  "id": "700613009",
+                  "type": "p"
+                }
+              ],
+              "id": "1360818513"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": "syntax is attribute_name = \"value\""
+                    }
+                  ],
+                  "id": "3500687685",
+                  "type": "p"
+                }
+              ],
+              "id": "1593344523"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": "lang attribute is used to specify the language of the text content used on a web page\n\n"
+                    }
+                  ],
+                  "id": "4086244906",
+                  "type": "p"
+                }
+              ],
+              "id": "86541983"
+            }
+          ],
+          "id": "1",
+          "outOf": null,
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "\nThat's Awesome! 🤩. lang is the attribute that specifies the language of the text content used on a webpage\n"
+                      }
+                    ],
+                    "id": "586772564",
+                    "type": "p"
+                  }
+                ],
+                "id": "3858523784"
+              },
+              "id": "3267942115",
+              "rule": "input like {3261256109}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "\nThat's not the correct answer😕. But it's a learning moment for you!🤓\n"
+                      }
+                    ],
+                    "id": "1422278322",
+                    "type": "p"
+                  }
+                ],
+                "id": "2763610767"
+              },
+              "id": "674453049",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "What attribute specifies the language of the text content used on a web page?",
+      "targeted": [],
+      "transformations": [
+        {
+          "id": "2720857238",
+          "operation": "shuffle",
+          "path": "choices"
+        }
+      ],
+      "version": 2
+    },
+    "choices": [
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "lang"
+              }
+            ],
+            "id": "4280102020",
+            "type": "p"
+          }
+        ],
+        "id": "3261256109"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "src"
+              }
+            ],
+            "id": "3378107821",
+            "type": "p"
+          }
+        ],
+        "id": "544059031"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "title "
+              }
+            ],
+            "id": "2499755658",
+            "type": "p"
+          }
+        ],
+        "id": "1471150415"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "body"
+              }
+            ],
+            "id": "1996259016",
+            "type": "p"
+          }
+        ],
+        "id": "119237921"
+      }
+    ],
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "What attribute specifies the language of the text content used on a web page?"
+            }
+          ],
+          "id": "1812693697",
+          "type": "p"
+        }
+      ],
+      "id": "189000155"
+    }
+  },
+  "id": "6917",
+  "objectives": {
+    "1": [
+      "6922"
+    ]
+  },
+  "originalFile": "",
+  "subType": "oli_multiple_choice",
+  "tags": [
+    "6936"
+  ],
+  "title": "10",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

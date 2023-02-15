@@ -1,0 +1,194 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "gradingApproach": "automatic",
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": "\nFull form of IP\n"
+                    }
+                  ],
+                  "id": "595051262",
+                  "type": "p"
+                }
+              ],
+              "id": "857993000"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "3166493977",
+                  "type": "p"
+                }
+              ],
+              "id": "1427879488"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "2482290022",
+                  "type": "p"
+                }
+              ],
+              "id": "1989671396"
+            }
+          ],
+          "id": "1",
+          "outOf": null,
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's Awesome! 🤩Fullform of IP is Internet Protocol"
+                      }
+                    ],
+                    "id": "2863356076",
+                    "type": "p"
+                  }
+                ],
+                "id": "886034249"
+              },
+              "id": "962413991",
+              "rule": "input like {3964748272}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's not the correct answer😕. But it's a learning moment for you!🤓"
+                      }
+                    ],
+                    "id": "3360324708",
+                    "type": "p"
+                  }
+                ],
+                "id": "197949798"
+              },
+              "id": "1665288741",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "Abbreviation of IP is ",
+      "targeted": [],
+      "transformations": [
+        {
+          "id": "2778785273",
+          "operation": "shuffle",
+          "path": "choices"
+        }
+      ],
+      "version": 2
+    },
+    "choices": [
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Intranet Protocol"
+              }
+            ],
+            "id": "1514049654",
+            "type": "p"
+          }
+        ],
+        "id": "533295070"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Internet Protocol"
+              }
+            ],
+            "id": "3869336910",
+            "type": "p"
+          }
+        ],
+        "id": "3964748272"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Internet Program"
+              }
+            ],
+            "id": "4031145523",
+            "type": "p"
+          }
+        ],
+        "id": "142874496"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Intranet Prototype"
+              }
+            ],
+            "id": "3910060759",
+            "type": "p"
+          }
+        ],
+        "id": "1652920068"
+      }
+    ],
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "Abbreviation of IP is "
+            }
+          ],
+          "id": "1166081494",
+          "type": "p"
+        }
+      ],
+      "id": "2380292622"
+    }
+  },
+  "id": "6899",
+  "objectives": {
+    "1": [
+      "7248"
+    ]
+  },
+  "originalFile": "",
+  "subType": "oli_multiple_choice",
+  "tags": [
+    "6895"
+  ],
+  "title": "2",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

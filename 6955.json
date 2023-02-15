@@ -1,0 +1,202 @@
+{
+  "content": {
+    "authoring": {
+      "correct": [
+        [
+          "802615733",
+          "2474525065",
+          "14497653"
+        ],
+        "1520842219"
+      ],
+      "parts": [
+        {
+          "gradingApproach": "automatic",
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "1386388654",
+                  "type": "p"
+                }
+              ],
+              "id": "1314266334"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "1917313104",
+                  "type": "p"
+                }
+              ],
+              "id": "1871466414"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "2908983841",
+                  "type": "p"
+                }
+              ],
+              "id": "1581538304"
+            }
+          ],
+          "id": "1",
+          "outOf": null,
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's Awesome! 🤩. In order to develop a webpage(which comes under frontend-client side),HTML,CSS,Javascript are the languages which are used "
+                      }
+                    ],
+                    "id": "463622567",
+                    "type": "p"
+                  }
+                ],
+                "id": "2056751863"
+              },
+              "id": "1520842219",
+              "rule": "(!(input like {4210919590})) && (input like {14497653} && (input like {2474525065} && (input like {802615733})))",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's not the correct answer😕. But it's a learning moment for you!🤓"
+                      }
+                    ],
+                    "id": "1631169534",
+                    "type": "p"
+                  }
+                ],
+                "id": "787367984"
+              },
+              "id": "4049413088",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "Languages used for frontend are ",
+      "targeted": [],
+      "transformations": [
+        {
+          "id": "2590652273",
+          "operation": "shuffle",
+          "path": "choices"
+        }
+      ],
+      "version": 2
+    },
+    "choices": [
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "HTML"
+              }
+            ],
+            "id": "1570065978",
+            "type": "p"
+          }
+        ],
+        "id": "802615733"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "CSS"
+              }
+            ],
+            "id": "907922954",
+            "type": "p"
+          }
+        ],
+        "id": "2474525065"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Javascript"
+              }
+            ],
+            "id": "3798610669",
+            "type": "p"
+          }
+        ],
+        "id": "14497653"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Python"
+              }
+            ],
+            "id": "305118461",
+            "type": "p"
+          }
+        ],
+        "id": "4210919590"
+      }
+    ],
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "Languages used for frontend are "
+            }
+          ],
+          "id": "1485641103",
+          "type": "p"
+        }
+      ],
+      "id": "3922785234"
+    }
+  },
+  "id": "6955",
+  "objectives": {
+    "1": [
+      "6920"
+    ]
+  },
+  "originalFile": "",
+  "subType": "oli_check_all_that_apply",
+  "tags": [
+    "6950"
+  ],
+  "title": "18",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

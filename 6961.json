@@ -1,0 +1,194 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "gradingApproach": "automatic",
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "3127158300",
+                  "type": "p"
+                }
+              ],
+              "id": "2340775517"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "15179253",
+                  "type": "p"
+                }
+              ],
+              "id": "3846162253"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "2500891087",
+                  "type": "p"
+                }
+              ],
+              "id": "3859453400"
+            }
+          ],
+          "id": "1",
+          "outOf": null,
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's Awesome! 🤩. HTML is the standard markup language mainly used to create web pages. HTML describes the structure and layout of a webpage. HTML consists of a series of elements that helps the browser how display content easily.\n\n"
+                      }
+                    ],
+                    "id": "2838174973",
+                    "type": "p"
+                  }
+                ],
+                "id": "3308371841"
+              },
+              "id": "4148090247",
+              "rule": "input like {1646169248}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's not the correct answer😕. But it's a learning moment for you!🤓"
+                      }
+                    ],
+                    "id": "1035625082",
+                    "type": "p"
+                  }
+                ],
+                "id": "3468730076"
+              },
+              "id": "1281873029",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "\nWhat is HTML?",
+      "targeted": [],
+      "transformations": [
+        {
+          "id": "4052536429",
+          "operation": "shuffle",
+          "path": "choices"
+        }
+      ],
+      "version": 2
+    },
+    "choices": [
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "HTML describes the structure of a webpage"
+              }
+            ],
+            "id": "641751120",
+            "type": "p"
+          }
+        ],
+        "id": "2220149088"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "HTML is mainly used to create web pages"
+              }
+            ],
+            "id": "4208724546",
+            "type": "p"
+          }
+        ],
+        "id": "4053499468"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "HTML consists of set of elements that helps the browser how to view the content"
+              }
+            ],
+            "id": "625838243",
+            "type": "p"
+          }
+        ],
+        "id": "3589649322"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "All of them"
+              }
+            ],
+            "id": "1375521650",
+            "type": "p"
+          }
+        ],
+        "id": "1646169248"
+      }
+    ],
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "\nWhat is HTML?"
+            }
+          ],
+          "id": "745925255",
+          "type": "p"
+        }
+      ],
+      "id": "1900246119"
+    }
+  },
+  "id": "6961",
+  "objectives": {
+    "1": [
+      "6922"
+    ]
+  },
+  "originalFile": "",
+  "subType": "oli_multiple_choice",
+  "tags": [
+    "6962"
+  ],
+  "title": "21",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

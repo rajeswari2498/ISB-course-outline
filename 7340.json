@@ -1,0 +1,268 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": "Reflection on the topics covered so far helps to memorize and build conceptual maps in the brain. So you don't want to miss out on this\n\n"
+                    }
+                  ],
+                  "id": "1343339549",
+                  "type": "p"
+                }
+              ],
+              "id": "2489290833"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "2036606348",
+                  "type": "p"
+                }
+              ],
+              "id": "1578186252"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "1735199387",
+                  "type": "p"
+                }
+              ],
+              "id": "2470362700"
+            }
+          ],
+          "id": "1",
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "strong": true,
+                        "text": "Internet"
+                      },
+                      {
+                        "text": " is the network networks of computers, or servers, communicating with one another by sending and receiving data."
+                      },
+                      {
+                        "strong": true,
+                        "text": "\nRouters"
+                      },
+                      {
+                        "text": " are specialized computers, with CPUs and memory, that route, or relay, data from one point to another.\n"
+                      },
+                      {
+                        "strong": true,
+                        "text": "Protocols"
+                      },
+                      {
+                        "text": " are a set of rules or conventions, like a physical handshake for humans, that the world has agreed upon for computers to communicate with.\n"
+                      },
+                      {
+                        "strong": true,
+                        "text": "TCP/IP"
+                      },
+                      {
+                        "text": " i.e \nTransmission Control Protocol and Internet Protocol are two protocols for sending data between two computers. \n"
+                      },
+                      {
+                        "strong": true,
+                        "text": "IP"
+                      },
+                      {
+                        "text": " stands for internet protocol, a protocol that includes a standard way for computers to address each other. "
+                      },
+                      {
+                        "strong": true,
+                        "text": "IP addresses"
+                      },
+                      {
+                        "text": " are unique addresses for computers connected to the internet, such that a packet sent from one computer to another will be passed along routers until it reaches its destination."
+                      },
+                      {
+                        "strong": true,
+                        "text": "\nDNS"
+                      },
+                      {
+                        "text": ", a domain name system, is another technology that translates domain names like facebook.com  to IP addresses. DNS is generally provided by a server nearby, with a big table in its memory, of domain names and IP addresses."
+                      }
+                    ],
+                    "id": "989036008",
+                    "type": "p"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "\nThe internet, with routers, IP, TCP, and DNS, is like the plumbing that allows us to send data from one computer to another. The web is one application that is built on top of the internet."
+                      }
+                    ],
+                    "id": "3537972509",
+                    "type": "p"
+                  },
+                  {
+                    "children": [
+                      {
+                        "strong": true,
+                        "text": "HTTP"
+                      },
+                      {
+                        "text": ", or Hypertext Transfer Protocol, standardizes how web browsers and web servers communicate within TCP/IP packets."
+                      }
+                    ],
+                    "id": "2641317749",
+                    "type": "p"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "strong": true,
+                            "text": "HTTPS"
+                          },
+                          {
+                            "text": " is the secure version of HTTP, ensuring that the contents of packets between the browser and server are encrypted."
+                          }
+                        ],
+                        "id": "3425930370",
+                        "type": "li"
+                      }
+                    ],
+                    "id": "4191948058",
+                    "type": "ul"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "A "
+                      },
+                      {
+                        "strong": true,
+                        "text": "URL"
+                      },
+                      {
+                        "text": ", or web address, might look like "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "https://www.facebook.com/."
+                          }
+                        ],
+                        "href": "https://www.facebook.com/",
+                        "id": "802280691",
+                        "target": "self",
+                        "type": "a"
+                      },
+                      {
+                        "text": "\n\nTwo commands supported by HTTP include "
+                      },
+                      {
+                        "strong": true,
+                        "text": "GET"
+                      },
+                      {
+                        "text": " and "
+                      },
+                      {
+                        "strong": true,
+                        "text": "POST"
+                      },
+                      {
+                        "text": ". GET allows a browser to ask for a page or file in a URL, and POST allows a browser to send additional data to the server that is hidden from the URL. Both of these are "
+                      },
+                      {
+                        "strong": true,
+                        "text": "requests"
+                      },
+                      {
+                        "text": " we can make to a server, which will provide a "
+                      },
+                      {
+                        "strong": true,
+                        "text": "response"
+                      },
+                      {
+                        "text": " in return."
+                      }
+                    ],
+                    "id": "123715933",
+                    "type": "p"
+                  }
+                ],
+                "id": "3830634178"
+              },
+              "id": "3165242290",
+              "rule": "input like {([a-z])\\w+}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "Reflection is an important step in learning. Don't miss out, Try again!\n\n"
+                      }
+                    ],
+                    "id": "1597778852",
+                    "type": "p"
+                  }
+                ],
+                "id": "2882949286"
+              },
+              "id": "2594993005",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "Recall, in your own words, the key learnings from this unit ",
+      "transformations": []
+    },
+    "inputType": "textarea",
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "Recall, in your own words, the key learnings from this unit "
+            }
+          ],
+          "id": "2799516318",
+          "type": "p"
+        }
+      ],
+      "id": "2594679330"
+    }
+  },
+  "id": "7340",
+  "objectives": {
+    "1": []
+  },
+  "originalFile": "",
+  "subType": "oli_short_answer",
+  "tags": [],
+  "title": "Single Response",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

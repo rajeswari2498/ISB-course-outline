@@ -1,0 +1,194 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "gradingApproach": "automatic",
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "1313172755",
+                  "type": "p"
+                }
+              ],
+              "id": "236862246"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "4178674654",
+                  "type": "p"
+                }
+              ],
+              "id": "1692704466"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "430815293",
+                  "type": "p"
+                }
+              ],
+              "id": "1182853929"
+            }
+          ],
+          "id": "1",
+          "outOf": null,
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "\nThat's Awesome! 🤩. An HTML element is a combination of start and end tags, attributes, and content between them"
+                      }
+                    ],
+                    "id": "1016729290",
+                    "type": "p"
+                  }
+                ],
+                "id": "3151605096"
+              },
+              "id": "4282499691",
+              "rule": "input like {4084327756}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's not the correct answer😕. But it's a learning moment for you!🤓"
+                      }
+                    ],
+                    "id": "2190543707",
+                    "type": "p"
+                  }
+                ],
+                "id": "1277863714"
+              },
+              "id": "2593762659",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "An html element consists of",
+      "targeted": [],
+      "transformations": [
+        {
+          "id": "1383940067",
+          "operation": "shuffle",
+          "path": "choices"
+        }
+      ],
+      "version": 2
+    },
+    "choices": [
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Start tags and end tags"
+              }
+            ],
+            "id": "1033825635",
+            "type": "p"
+          }
+        ],
+        "id": "3811961720"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Atrributes"
+              }
+            ],
+            "id": "3961013980",
+            "type": "p"
+          }
+        ],
+        "id": "3796389974"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Content between them"
+              }
+            ],
+            "id": "1465920913",
+            "type": "p"
+          }
+        ],
+        "id": "1247175268"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "All of them"
+              }
+            ],
+            "id": "35211279",
+            "type": "p"
+          }
+        ],
+        "id": "4084327756"
+      }
+    ],
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "An html element consists of"
+            }
+          ],
+          "id": "1529420821",
+          "type": "p"
+        }
+      ],
+      "id": "291926551"
+    }
+  },
+  "id": "6976",
+  "objectives": {
+    "1": [
+      "6922"
+    ]
+  },
+  "originalFile": "",
+  "subType": "oli_multiple_choice",
+  "tags": [
+    "6971"
+  ],
+  "title": "29",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

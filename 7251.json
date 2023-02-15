@@ -1,0 +1,123 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "874261220",
+                  "type": "p"
+                }
+              ],
+              "id": "2399566971"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "902345717",
+                  "type": "p"
+                }
+              ],
+              "id": "861076045"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "3953543446",
+                  "type": "p"
+                }
+              ],
+              "id": "3754266680"
+            }
+          ],
+          "id": "1",
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "3378745389",
+                    "type": "p"
+                  }
+                ],
+                "id": "3939575934"
+              },
+              "id": "2556834992",
+              "rule": "input like {([a-z])\\w+}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "2490493679",
+                    "type": "p"
+                  }
+                ],
+                "id": "3318323927"
+              },
+              "id": "1589356245",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "\nIf you want to send an email from IIIT Hyderabad to someone in CMU, how does your laptop, your phone, or your desktop, actually send from point A to point B? \n\n",
+      "transformations": []
+    },
+    "inputType": "textarea",
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "\nIf you want to send an email from IIIT Hyderabad to someone in CMU, how does your laptop, your phone, or your desktop, actually send from point A to point B? \n\n"
+            }
+          ],
+          "id": "960802435",
+          "type": "p"
+        }
+      ],
+      "id": "2469212437"
+    }
+  },
+  "id": "7251",
+  "objectives": {
+    "1": []
+  },
+  "originalFile": "",
+  "subType": "oli_short_answer",
+  "tags": [],
+  "title": "Single Response",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

@@ -1,0 +1,194 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "gradingApproach": "automatic",
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": "\nIt is used to locate a resource on the Internet. It is also referred to as a web address.\n"
+                    }
+                  ],
+                  "id": "3514589766",
+                  "type": "p"
+                }
+              ],
+              "id": "3838002403"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": "It is typed in the browser's address bar to tell it to load the associated page (resource).\n\n"
+                    }
+                  ],
+                  "id": "2580935336",
+                  "type": "p"
+                }
+              ],
+              "id": "2920098235"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": "Uniform Resource Locator (URL) is the reference for the location of a resource on the internet. To locate a resource on the internet, URL is used which is a unique identifier.\n\n"
+                    }
+                  ],
+                  "id": "2206327635",
+                  "type": "p"
+                }
+              ],
+              "id": "3948241274"
+            }
+          ],
+          "id": "1",
+          "outOf": null,
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's Awesome! 🤩. The location of a resource on the internet is given by the URL\n\n"
+                      }
+                    ],
+                    "id": "1848959999",
+                    "type": "p"
+                  }
+                ],
+                "id": "3677734349"
+              },
+              "id": "205977340",
+              "rule": "input like {1154018288}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's not the correct answer😕. But it's a learning moment for you!🤓"
+                      }
+                    ],
+                    "id": "719582761",
+                    "type": "p"
+                  }
+                ],
+                "id": "1688157404"
+              },
+              "id": "1654055976",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "What is the location of a resource on the internet given?\n",
+      "targeted": [],
+      "transformations": [
+        {
+          "id": "3537468666",
+          "operation": "shuffle",
+          "path": "choices"
+        }
+      ],
+      "version": 2
+    },
+    "choices": [
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Email"
+              }
+            ],
+            "id": "932319158",
+            "type": "p"
+          }
+        ],
+        "id": "1392079201"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "IP"
+              }
+            ],
+            "id": "3405080307",
+            "type": "p"
+          }
+        ],
+        "id": "3890291255"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Protocol"
+              }
+            ],
+            "id": "3457424810",
+            "type": "p"
+          }
+        ],
+        "id": "2165005974"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "URL"
+              }
+            ],
+            "id": "3241459810",
+            "type": "p"
+          }
+        ],
+        "id": "1154018288"
+      }
+    ],
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "What is the location of a resource on the internet given?\n"
+            }
+          ],
+          "id": "1300260078",
+          "type": "p"
+        }
+      ],
+      "id": "825670162"
+    }
+  },
+  "id": "6896",
+  "objectives": {
+    "1": [
+      "7772"
+    ]
+  },
+  "originalFile": "",
+  "subType": "oli_multiple_choice",
+  "tags": [
+    "6895"
+  ],
+  "title": "1",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

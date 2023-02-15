@@ -1,0 +1,91 @@
+{
+  "content": {
+    "model": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "text": "By the end of this learning unit, you will be able to"
+              }
+            ],
+            "id": "2158104650",
+            "type": "p"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Describe the flow of data transmission from the browser"
+                  }
+                ],
+                "id": "2158104650",
+                "type": "li"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Define what the Internet is and explain how devices are connected"
+                  }
+                ],
+                "id": "2158104650",
+                "type": "li"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Explain the TCP/IP protocol"
+                  }
+                ],
+                "id": "2158104650",
+                "type": "li"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Distinguish between frontend and backend"
+                  }
+                ],
+                "id": "2158104650",
+                "type": "li"
+              }
+            ],
+            "id": "2836372420",
+            "type": "ul"
+          },
+          {
+            "children": [
+              {
+                "text": "We hope you enjoy learning about Introduction to Web Applications! "
+              }
+            ],
+            "id": "3604396559",
+            "type": "p"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "id": "119495152",
+            "type": "p"
+          }
+        ],
+        "id": "1661683256",
+        "purpose": "none",
+        "type": "content"
+      }
+    ],
+    "version": "0.1.0"
+  },
+  "id": "6997",
+  "isGraded": false,
+  "objectives": [],
+  "originalFile": "",
+  "tags": [],
+  "title": "[Overview] Introduction to Web Applications",
+  "type": "Page",
+  "unresolvedReferences": []
+}

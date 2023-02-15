@@ -1,0 +1,194 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "gradingApproach": "automatic",
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "2998475614",
+                  "type": "p"
+                }
+              ],
+              "id": "1736288524"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "3343809585",
+                  "type": "p"
+                }
+              ],
+              "id": "3943251179"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "2019030328",
+                  "type": "p"
+                }
+              ],
+              "id": "191262377"
+            }
+          ],
+          "id": "1",
+          "outOf": null,
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's Awesome! 🤩.Fullform of DOM is Document Object Model"
+                      }
+                    ],
+                    "id": "1726894991",
+                    "type": "p"
+                  }
+                ],
+                "id": "3245508872"
+              },
+              "id": "1106882049",
+              "rule": "input like {934802189}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's not the correct answer😕. But it's a learning moment for you!🤓"
+                      }
+                    ],
+                    "id": "3816106344",
+                    "type": "p"
+                  }
+                ],
+                "id": "1572897212"
+              },
+              "id": "2725354737",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "DOM stands for",
+      "targeted": [],
+      "transformations": [
+        {
+          "id": "2313439811",
+          "operation": "shuffle",
+          "path": "choices"
+        }
+      ],
+      "version": 2
+    },
+    "choices": [
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Document Object Model"
+              }
+            ],
+            "id": "3387820890",
+            "type": "p"
+          }
+        ],
+        "id": "934802189"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Document Onhalt Model"
+              }
+            ],
+            "id": "1199978468",
+            "type": "p"
+          }
+        ],
+        "id": "2920510870"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Document Oriented Model"
+              }
+            ],
+            "id": "1308852925",
+            "type": "p"
+          }
+        ],
+        "id": "4194319977"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Document Oriented Management"
+              }
+            ],
+            "id": "3168200487",
+            "type": "p"
+          }
+        ],
+        "id": "1903501919"
+      }
+    ],
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "DOM stands for"
+            }
+          ],
+          "id": "1542647466",
+          "type": "p"
+        }
+      ],
+      "id": "2059723979"
+    }
+  },
+  "id": "6966",
+  "objectives": {
+    "1": [
+      "6922"
+    ]
+  },
+  "originalFile": "",
+  "subType": "oli_multiple_choice",
+  "tags": [
+    "6962"
+  ],
+  "title": "24",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

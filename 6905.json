@@ -1,0 +1,194 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "gradingApproach": "automatic",
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": "It is one of the python web Frameworks used in backend "
+                    }
+                  ],
+                  "id": "304606338",
+                  "type": "p"
+                }
+              ],
+              "id": "2430780958"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "3470781052",
+                  "type": "p"
+                }
+              ],
+              "id": "602205330"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "353932821",
+                  "type": "p"
+                }
+              ],
+              "id": "2344662190"
+            }
+          ],
+          "id": "1",
+          "outOf": null,
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's Awesome! 🤩.One of the technologies used in the backend is Django"
+                      }
+                    ],
+                    "id": "3230864564",
+                    "type": "p"
+                  }
+                ],
+                "id": "6022003"
+              },
+              "id": "3173544288",
+              "rule": "input like {1311935665}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's not the correct answer😕. But it's a learning moment for you!🤓"
+                      }
+                    ],
+                    "id": "443605184",
+                    "type": "p"
+                  }
+                ],
+                "id": "841981098"
+              },
+              "id": "1147196806",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": " One of the technologies used for the back end is",
+      "targeted": [],
+      "transformations": [
+        {
+          "id": "2785591458",
+          "operation": "shuffle",
+          "path": "choices"
+        }
+      ],
+      "version": 2
+    },
+    "choices": [
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Javascript"
+              }
+            ],
+            "id": "3479279930",
+            "type": "p"
+          }
+        ],
+        "id": "891052598"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Bootstrap"
+              }
+            ],
+            "id": "3889229253",
+            "type": "p"
+          }
+        ],
+        "id": "2232754547"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "CSS"
+              }
+            ],
+            "id": "3761457689",
+            "type": "p"
+          }
+        ],
+        "id": "3159811761"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Django"
+              }
+            ],
+            "id": "1789188100",
+            "type": "p"
+          }
+        ],
+        "id": "1311935665"
+      }
+    ],
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": " One of the technologies used for the back end is"
+            }
+          ],
+          "id": "2293552230",
+          "type": "p"
+        }
+      ],
+      "id": "1162779231"
+    }
+  },
+  "id": "6905",
+  "objectives": {
+    "1": [
+      "6920"
+    ]
+  },
+  "originalFile": "",
+  "subType": "oli_multiple_choice",
+  "tags": [
+    "6911"
+  ],
+  "title": "5",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

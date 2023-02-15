@@ -1,0 +1,123 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "3035166878",
+                  "type": "p"
+                }
+              ],
+              "id": "151709630"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "3518085243",
+                  "type": "p"
+                }
+              ],
+              "id": "2806231357"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "3190793975",
+                  "type": "p"
+                }
+              ],
+              "id": "1985293038"
+            }
+          ],
+          "id": "1",
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "3232007678",
+                    "type": "p"
+                  }
+                ],
+                "id": "2579051872"
+              },
+              "id": "2798140531",
+              "rule": "input like {([a-z])\\w+}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "1102523287",
+                    "type": "p"
+                  }
+                ],
+                "id": "3431244018"
+              },
+              "id": "3771578158",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "Do you know what version of HTML are we using currently?\n",
+      "transformations": []
+    },
+    "inputType": "textarea",
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "Do you know what version of HTML are we using currently?\n"
+            }
+          ],
+          "id": "1671209340",
+          "type": "p"
+        }
+      ],
+      "id": "383646280"
+    }
+  },
+  "id": "7166",
+  "objectives": {
+    "1": []
+  },
+  "originalFile": "",
+  "subType": "oli_short_answer",
+  "tags": [],
+  "title": "Single Response",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

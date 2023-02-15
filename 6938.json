@@ -1,0 +1,194 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "gradingApproach": "automatic",
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "1707110408",
+                  "type": "p"
+                }
+              ],
+              "id": "2804824975"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "3061230466",
+                  "type": "p"
+                }
+              ],
+              "id": "259647242"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "1905245747",
+                  "type": "p"
+                }
+              ],
+              "id": "877945191"
+            }
+          ],
+          "id": "1",
+          "outOf": null,
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's Awesome! 🤩Internet is a network of networks of computers which is used for multiple purposes such as sending and receiving data,connecting networks all across the world."
+                      }
+                    ],
+                    "id": "1347036102",
+                    "type": "p"
+                  }
+                ],
+                "id": "1734674721"
+              },
+              "id": "907352065",
+              "rule": "input like {313371596}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's not the correct answer😕. But it's a learning moment for you!🤓"
+                      }
+                    ],
+                    "id": "2835058293",
+                    "type": "p"
+                  }
+                ],
+                "id": "1020433445"
+              },
+              "id": "4019372216",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "\n Internet is ",
+      "targeted": [],
+      "transformations": [
+        {
+          "id": "2985713025",
+          "operation": "shuffle",
+          "path": "choices"
+        }
+      ],
+      "version": 2
+    },
+    "choices": [
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Useful for sending and receiving data"
+              }
+            ],
+            "id": "2897266687",
+            "type": "p"
+          }
+        ],
+        "id": "1601794400"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Connects networks all across the world"
+              }
+            ],
+            "id": "218229535",
+            "type": "p"
+          }
+        ],
+        "id": "2655215667"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "A network of networks of computers"
+              }
+            ],
+            "id": "2280077672",
+            "type": "p"
+          }
+        ],
+        "id": "862564002"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "All of them"
+              }
+            ],
+            "id": "1294199383",
+            "type": "p"
+          }
+        ],
+        "id": "313371596"
+      }
+    ],
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "\n Internet is "
+            }
+          ],
+          "id": "1339374687",
+          "type": "p"
+        }
+      ],
+      "id": "2529138958"
+    }
+  },
+  "id": "6938",
+  "objectives": {
+    "1": [
+      "7247"
+    ]
+  },
+  "originalFile": "",
+  "subType": "oli_multiple_choice",
+  "tags": [
+    "6939"
+  ],
+  "title": "11",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

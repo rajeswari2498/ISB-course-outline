@@ -1,0 +1,194 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "gradingApproach": "automatic",
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": "\nIn this tag we usually write a few lines of content in HTML code"
+                    }
+                  ],
+                  "id": "699318486",
+                  "type": "p"
+                }
+              ],
+              "id": "1580699508"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "1538556453",
+                  "type": "p"
+                }
+              ],
+              "id": "1541604543"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "481700551",
+                  "type": "p"
+                }
+              ],
+              "id": "1817092857"
+            }
+          ],
+          "id": "1",
+          "outOf": null,
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's Awesome! 🤩.p is called paragraph tag"
+                      }
+                    ],
+                    "id": "2040684653",
+                    "type": "p"
+                  }
+                ],
+                "id": "101170494"
+              },
+              "id": "2092081634",
+              "rule": "input like {873322571}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's not the correct answer😕. But it's a learning moment for you!🤓"
+                      }
+                    ],
+                    "id": "1426535885",
+                    "type": "p"
+                  }
+                ],
+                "id": "2479564902"
+              },
+              "id": "3409669151",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "<p> is called ?",
+      "targeted": [],
+      "transformations": [
+        {
+          "id": "2132842608",
+          "operation": "shuffle",
+          "path": "choices"
+        }
+      ],
+      "version": 2
+    },
+    "choices": [
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "container tah"
+              }
+            ],
+            "id": "29765007",
+            "type": "p"
+          }
+        ],
+        "id": "1827704217"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "paragraph tag"
+              }
+            ],
+            "id": "2567570000",
+            "type": "p"
+          }
+        ],
+        "id": "873322571"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "head tag"
+              }
+            ],
+            "id": "1997508966",
+            "type": "p"
+          }
+        ],
+        "id": "1968250762"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "none of them"
+              }
+            ],
+            "id": "975609907",
+            "type": "p"
+          }
+        ],
+        "id": "3706353820"
+      }
+    ],
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "<p> is called ?"
+            }
+          ],
+          "id": "852876015",
+          "type": "p"
+        }
+      ],
+      "id": "2753795792"
+    }
+  },
+  "id": "6914",
+  "objectives": {
+    "1": [
+      "6922"
+    ]
+  },
+  "originalFile": "",
+  "subType": "oli_multiple_choice",
+  "tags": [
+    "6936"
+  ],
+  "title": "9",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

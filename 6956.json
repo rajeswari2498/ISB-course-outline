@@ -1,0 +1,194 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "gradingApproach": "automatic",
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "868015086",
+                  "type": "p"
+                }
+              ],
+              "id": "222779357"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "4222414860",
+                  "type": "p"
+                }
+              ],
+              "id": "201490055"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "969402901",
+                  "type": "p"
+                }
+              ],
+              "id": "897118871"
+            }
+          ],
+          "id": "1",
+          "outOf": null,
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's Awesome! 🤩.Backend development means working on server-side software,databases,writing code that helps browsers communicate with databases and store,understand and delete data."
+                      }
+                    ],
+                    "id": "287439702",
+                    "type": "p"
+                  }
+                ],
+                "id": "2372706258"
+              },
+              "id": "3046484101",
+              "rule": "input like {454345639}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's not the correct answer😕. But it's a learning moment for you!🤓"
+                      }
+                    ],
+                    "id": "3732097105",
+                    "type": "p"
+                  }
+                ],
+                "id": "3844002230"
+              },
+              "id": "4274914567",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "\nBackend development focuses on",
+      "targeted": [],
+      "transformations": [
+        {
+          "id": "1414780835",
+          "operation": "shuffle",
+          "path": "choices"
+        }
+      ],
+      "version": 2
+    },
+    "choices": [
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Working on server-side software"
+              }
+            ],
+            "id": "785341301",
+            "type": "p"
+          }
+        ],
+        "id": "1292756374"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Databases"
+              }
+            ],
+            "id": "4076538791",
+            "type": "p"
+          }
+        ],
+        "id": "127152107"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Code that helps browsers communicate with databases and store,understand and delete data"
+              }
+            ],
+            "id": "3586473035",
+            "type": "p"
+          }
+        ],
+        "id": "2884291041"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "All of them"
+              }
+            ],
+            "id": "2470071327",
+            "type": "p"
+          }
+        ],
+        "id": "454345639"
+      }
+    ],
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "\nBackend development focuses on"
+            }
+          ],
+          "id": "1121584375",
+          "type": "p"
+        }
+      ],
+      "id": "1834518982"
+    }
+  },
+  "id": "6956",
+  "objectives": {
+    "1": [
+      "6920"
+    ]
+  },
+  "originalFile": "",
+  "subType": "oli_multiple_choice",
+  "tags": [
+    "6950"
+  ],
+  "title": "19",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

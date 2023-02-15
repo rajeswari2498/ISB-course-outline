@@ -1,0 +1,673 @@
+{
+  "content": {
+    "model": [
+      {
+        "children": [
+          {
+            "activity_id": 7258,
+            "children": [],
+            "id": "764553792",
+            "purpose": "none",
+            "type": "activity-reference"
+          }
+        ],
+        "id": "178345718",
+        "layout": "vertical",
+        "purpose": "manystudentswonder",
+        "type": "group"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Another feature supported by the TCP/IP protocol is "
+                  },
+                  {
+                    "strong": true,
+                    "text": "Fragmentation"
+                  },
+                  {
+                    "text": ". This will allow us to chunk down the huge data into several small chunks so that the data can be sent over multiple packets. "
+                  }
+                ],
+                "id": "2202888780",
+                "type": "p"
+              },
+              {
+                "children": [
+                  {
+                    "text": "For example, you are trying to share a large file. For the image to be shared, due to the fragmentation, it will be shared as several small packets. \n\n"
+                  }
+                ],
+                "id": "1192354939",
+                "type": "p"
+              }
+            ],
+            "id": "2980965619",
+            "purpose": "none",
+            "type": "content"
+          }
+        ],
+        "id": "3913657461",
+        "layout": "vertical",
+        "purpose": "none",
+        "type": "group"
+      },
+      {
+        "children": [
+          {
+            "activity_id": 7260,
+            "children": [],
+            "id": "675145811",
+            "purpose": "none",
+            "type": "activity-reference"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "2017237487",
+                "type": "p"
+              }
+            ],
+            "id": "3626165921",
+            "purpose": "none",
+            "type": "content"
+          }
+        ],
+        "id": "2698682099",
+        "layout": "vertical",
+        "purpose": "manystudentswonder",
+        "type": "group"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "One possible issue while sending the data over multiple packets is the receiver server might not be able to identify the sequence (the order) of fragments from the sender’s server. "
+                  }
+                ],
+                "id": "500003299",
+                "type": "p"
+              }
+            ],
+            "id": "4160837955",
+            "purpose": "none",
+            "type": "content"
+          }
+        ],
+        "id": "4251893823",
+        "layout": "vertical",
+        "purpose": "none",
+        "type": "group"
+      },
+      {
+        "children": [
+          {
+            "activity_id": 7261,
+            "children": [],
+            "id": "1281214886",
+            "purpose": "none",
+            "type": "activity-reference"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "1050012215",
+                "type": "p"
+              }
+            ],
+            "id": "3176547202",
+            "purpose": "none",
+            "type": "content"
+          }
+        ],
+        "id": "3936576292",
+        "layout": "vertical",
+        "purpose": "manystudentswonder",
+        "type": "group"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "You write some identifiers on the cards which will help you to remember the sequence. That’s exactly what happens even with the TCP/IP transmission. TCP connections can detect order packets by using sequence numbers."
+                  }
+                ],
+                "id": "2762100623",
+                "type": "p"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Another possible issue is the losing packets in between the transmissions. The sequence numbers will resolve this issue also. "
+                  }
+                ],
+                "id": "4082677405",
+                "type": "p"
+              }
+            ],
+            "id": "3432389431",
+            "purpose": "none",
+            "type": "content"
+          }
+        ],
+        "id": "2131338149",
+        "layout": "vertical",
+        "purpose": "none",
+        "type": "group"
+      },
+      {
+        "children": [
+          {
+            "activity_id": 7264,
+            "children": [],
+            "id": "2381690798",
+            "purpose": "none",
+            "type": "activity-reference"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "2761106196",
+                "type": "p"
+              }
+            ],
+            "id": "3516657371",
+            "purpose": "none",
+            "type": "content"
+          }
+        ],
+        "id": "3039242175",
+        "layout": "vertical",
+        "purpose": "manystudentswonder",
+        "type": "group"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Now that the receiver knows how many packets to expect, if that many packets are not received, then ask the sender to send those packets again. In this way, the receiver makes sure that all the packets are received. Hence TCP, if it is the protocol being used to transmit data from point A to point B, ensures that it either all gets there, or ultimately, none of it at all. "
+                  }
+                ],
+                "id": "3880333296",
+                "type": "p"
+              },
+              {
+                "children": [
+                  {
+                    "text": "What do you type in when you visit a website? In general, we type a domain name such as facebook.com, gmail.com, or any other similar domain name. There is another system on the internet called"
+                  },
+                  {
+                    "strong": true,
+                    "text": " DNS,"
+                  },
+                  {
+                    "text": " a domain name system. DNS servers are present on every network on the internet."
+                  }
+                ],
+                "id": "2406287815",
+                "type": "p"
+              },
+              {
+                "children": [
+                  {
+                    "text": "There will definitely be some server connected to the network you’re on via wires or wirelessly. It will have a big table in its memory like a spreadsheet or hashtable that has at least two columns of keys and values where on the left-hand side in the hashtable i.e the left column is what we'll call a domain name like facebook.com,gmail.com, and an IP address on the right-hand side i.e on the right column. So, in simple terms, a DNS server's purpose is to translate domain names to IP addresses. And vice versa."
+                  }
+                ],
+                "id": "1728663681",
+                "type": "p"
+              }
+            ],
+            "id": "3915069450",
+            "purpose": "none",
+            "type": "content"
+          }
+        ],
+        "id": "1188280146",
+        "layout": "vertical",
+        "purpose": "none",
+        "type": "group"
+      },
+      {
+        "children": [
+          {
+            "activity_id": 7265,
+            "children": [],
+            "id": "3606844313",
+            "purpose": "none",
+            "type": "activity-reference"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "4225628089",
+                "type": "p"
+              }
+            ],
+            "id": "1355195389",
+            "purpose": "none",
+            "type": "content"
+          }
+        ],
+        "id": "1584375600",
+        "layout": "vertical",
+        "purpose": "manystudentswonder",
+        "type": "group"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "There’s something called "
+                  },
+                  {
+                    "strong": true,
+                    "text": "HTTP"
+                  },
+                  {
+                    "text": " which stands for HyperText Transfer Protocol. Your browser just adds it automatically for you. In most cases, you see "
+                  },
+                  {
+                    "strong": true,
+                    "text": "HTTPS"
+                  },
+                  {
+                    "text": " where S stands for secure. \n"
+                  }
+                ],
+                "id": "100894868",
+                "type": "p"
+              }
+            ],
+            "id": "1092477435",
+            "purpose": "none",
+            "type": "content"
+          }
+        ],
+        "id": "3072492378",
+        "layout": "vertical",
+        "purpose": "none",
+        "type": "group"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "After typing the URL and when you click on enter, it tells the browser how to request information from a server, and how to respond from the server to that client with information. "
+                  }
+                ],
+                "id": "1771153798",
+                "type": "p"
+              },
+              {
+                "children": [
+                  {
+                    "text": "HTTP supports two commands "
+                  },
+                  {
+                    "strong": true,
+                    "text": "GET"
+                  },
+                  {
+                    "text": " and "
+                  },
+                  {
+                    "strong": true,
+                    "text": "POST"
+                  },
+                  {
+                    "text": " methods where GET means to put any user input in the URL and  POST allows a browser to send additional data to the server that is hidden from the URL. Both of these are requests we can make to a server, which will respond in return. so that things you’re searching for, credit card numbers you’re typing in, usernames and passwords you’re inputting don't show up in the URL and are visible to anyone with access to your computer and your search history.\n\n"
+                  }
+                ],
+                "id": "1187010698",
+                "type": "p"
+              }
+            ],
+            "id": "2274847314",
+            "purpose": "none",
+            "type": "content"
+          }
+        ],
+        "id": "2376873551",
+        "layout": "vertical",
+        "purpose": "none",
+        "type": "group"
+      },
+      {
+        "children": [
+          {
+            "activity_id": 7267,
+            "children": [],
+            "id": "1089305266",
+            "purpose": "none",
+            "type": "activity-reference"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "2676624977",
+                "type": "p"
+              }
+            ],
+            "id": "3931961543",
+            "purpose": "none",
+            "type": "content"
+          }
+        ],
+        "id": "88425427",
+        "layout": "vertical",
+        "purpose": "manystudentswonder",
+        "type": "group"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Generally, an HTTP request uses the GET method, A GET request will start with: "
+                  }
+                ],
+                "id": "250545185",
+                "type": "p"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "250545185",
+                "type": "p"
+              },
+              {
+                "children": [
+                  {
+                    "text": "GET / HTTP/1.1"
+                  }
+                ],
+                "id": "250545185",
+                "type": "p"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Host: www.example.com"
+                  }
+                ],
+                "id": "250545185",
+                "type": "p"
+              },
+              {
+                "children": [
+                  {
+                    "text": "..."
+                  }
+                ],
+                "id": "250545185",
+                "type": "p"
+              },
+              {
+                "children": [
+                  {
+                    "text": " "
+                  }
+                ],
+                "id": "250545185",
+                "type": "p"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "The GET indicates that the request is for some file, and ‘/’ indicates the default file."
+                      }
+                    ],
+                    "id": "250545185",
+                    "type": "li"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "There are different versions of the HTTP protocol, so HTTP/1.1 indicates that the browser is using version 1.1."
+                      }
+                    ],
+                    "id": "250545185",
+                    "type": "li"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Host: www.example.com indicates that the request is for www.example.com since the same web server might be hosting multiple websites and domains."
+                      }
+                    ],
+                    "id": "250545185",
+                    "type": "li"
+                  }
+                ],
+                "id": "3617169683",
+                "type": "ul"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "250545185",
+                "type": "p"
+              },
+              {
+                "children": [
+                  {
+                    "text": "A response for a successful request will start with:"
+                  }
+                ],
+                "id": "250545185",
+                "type": "p"
+              },
+              {
+                "children": [
+                  {
+                    "text": "HTTP/1.1 200 OK"
+                  }
+                ],
+                "id": "250545185",
+                "type": "p"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Content-Type: text/html"
+                  }
+                ],
+                "id": "250545185",
+                "type": "p"
+              },
+              {
+                "children": [
+                  {
+                    "text": "..."
+                  }
+                ],
+                "id": "250545185",
+                "type": "p"
+              },
+              {
+                "children": [
+                  {
+                    "text": " "
+                  }
+                ],
+                "id": "250545185",
+                "type": "p"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "The web server will respond with the version of HTTP, followed by a status code, which is 200 OK here, indicating that the request was valid."
+                      }
+                    ],
+                    "id": "250545185",
+                    "type": "li"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": " Then, the web server indicates the type of content in its response, which might be text, image, or another format. "
+                      }
+                    ],
+                    "id": "250545185",
+                    "type": "li"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Finally, the rest of the packet or packets will include the content."
+                      }
+                    ],
+                    "id": "250545185",
+                    "type": "li"
+                  }
+                ],
+                "id": "4238355782",
+                "type": "ul"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "250545185",
+                "type": "p"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "250545185",
+                "type": "p"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "250545185",
+                "type": "p"
+              }
+            ],
+            "id": "969447437",
+            "purpose": "none",
+            "type": "content"
+          }
+        ],
+        "id": "214019966",
+        "layout": "vertical",
+        "purpose": "none",
+        "type": "group"
+      },
+      {
+        "children": [
+          {
+            "count": 9,
+            "id": "1831840216",
+            "logic": {
+              "conditions": {
+                "fact": "tags",
+                "operator": "contains",
+                "value": [
+                  6895
+                ]
+              }
+            },
+            "purpose": "none",
+            "type": "selection"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "id": "2901326259",
+                "type": "p"
+              }
+            ],
+            "id": "3447621711",
+            "purpose": "none",
+            "type": "content"
+          }
+        ],
+        "id": "995640292",
+        "layout": "vertical",
+        "purpose": "didigetthis",
+        "type": "group"
+      }
+    ],
+    "version": "0.1.0"
+  },
+  "id": "7242",
+  "isGraded": false,
+  "objectives": [
+    "7772"
+  ],
+  "originalFile": "",
+  "tags": [],
+  "title": "Understanding the HTTP request and response",
+  "type": "Page",
+  "unresolvedReferences": []
+}

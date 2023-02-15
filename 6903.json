@@ -1,0 +1,194 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "gradingApproach": "automatic",
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": "Users can directly interact with buttons, websites, and features on the computer's screen. It's basically what user sees on a computer when the user opens a website\n\n"
+                    }
+                  ],
+                  "id": "1974309357",
+                  "type": "p"
+                }
+              ],
+              "id": "590350734"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "3685094351",
+                  "type": "p"
+                }
+              ],
+              "id": "2543985687"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "2206973448",
+                  "type": "p"
+                }
+              ],
+              "id": "1731952938"
+            }
+          ],
+          "id": "1",
+          "outOf": null,
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's Awesome! 🤩. The part of website where the user sees the images, buttons, text etc is Frontend"
+                      }
+                    ],
+                    "id": "2439211104",
+                    "type": "p"
+                  }
+                ],
+                "id": "2689494784"
+              },
+              "id": "2066737528",
+              "rule": "input like {1574177746}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's not the correct answer😕. But it's a learning moment for you!🤓"
+                      }
+                    ],
+                    "id": "3507763466",
+                    "type": "p"
+                  }
+                ],
+                "id": "643897461"
+              },
+              "id": "2223598848",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "The part of the website where the user sees the images, buttons, text, colors, etc is ",
+      "targeted": [],
+      "transformations": [
+        {
+          "id": "784629669",
+          "operation": "shuffle",
+          "path": "choices"
+        }
+      ],
+      "version": 2
+    },
+    "choices": [
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Backend"
+              }
+            ],
+            "id": "2988901613",
+            "type": "p"
+          }
+        ],
+        "id": "3538545853"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Frontend"
+              }
+            ],
+            "id": "2875886370",
+            "type": "p"
+          }
+        ],
+        "id": "1574177746"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Web browser"
+              }
+            ],
+            "id": "4209969992",
+            "type": "p"
+          }
+        ],
+        "id": "2438402357"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "None of them"
+              }
+            ],
+            "id": "696750120",
+            "type": "p"
+          }
+        ],
+        "id": "2534903595"
+      }
+    ],
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "The part of the website where the user sees the images, buttons, text, colors, etc is "
+            }
+          ],
+          "id": "208757474",
+          "type": "p"
+        }
+      ],
+      "id": "2807279064"
+    }
+  },
+  "id": "6903",
+  "objectives": {
+    "1": [
+      "6920"
+    ]
+  },
+  "originalFile": "",
+  "subType": "oli_multiple_choice",
+  "tags": [
+    "6911"
+  ],
+  "title": "4",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

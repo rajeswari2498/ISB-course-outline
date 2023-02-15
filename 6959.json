@@ -1,0 +1,194 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "gradingApproach": "automatic",
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "2848716595",
+                  "type": "p"
+                }
+              ],
+              "id": "2053168411"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "2909477881",
+                  "type": "p"
+                }
+              ],
+              "id": "1660242973"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "4090147587",
+                  "type": "p"
+                }
+              ],
+              "id": "2461287381"
+            }
+          ],
+          "id": "1",
+          "outOf": null,
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's Awesome! 🤩.Languages used in backend are Python,PHP etc"
+                      }
+                    ],
+                    "id": "2980969993",
+                    "type": "p"
+                  }
+                ],
+                "id": "788092036"
+              },
+              "id": "1187562655",
+              "rule": "input like {1387605499}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's not the correct answer😕. But it's a learning moment for you!🤓"
+                      }
+                    ],
+                    "id": "127586418",
+                    "type": "p"
+                  }
+                ],
+                "id": "2473079739"
+              },
+              "id": "1381422087",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "Languages that are used in backend are",
+      "targeted": [],
+      "transformations": [
+        {
+          "id": "4210512040",
+          "operation": "shuffle",
+          "path": "choices"
+        }
+      ],
+      "version": 2
+    },
+    "choices": [
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Python"
+              }
+            ],
+            "id": "3353160635",
+            "type": "p"
+          }
+        ],
+        "id": "4240995703"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "PHP"
+              }
+            ],
+            "id": "1783513026",
+            "type": "p"
+          }
+        ],
+        "id": "2944376789"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Both of them"
+              }
+            ],
+            "id": "1157691957",
+            "type": "p"
+          }
+        ],
+        "id": "1387605499"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "None of them"
+              }
+            ],
+            "id": "314765165",
+            "type": "p"
+          }
+        ],
+        "id": "3346136276"
+      }
+    ],
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "Languages that are used in backend are"
+            }
+          ],
+          "id": "3420492193",
+          "type": "p"
+        }
+      ],
+      "id": "3751656019"
+    }
+  },
+  "id": "6959",
+  "objectives": {
+    "1": [
+      "6920"
+    ]
+  },
+  "originalFile": "",
+  "subType": "oli_multiple_choice",
+  "tags": [
+    "6950"
+  ],
+  "title": "20",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

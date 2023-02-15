@@ -1,0 +1,218 @@
+{
+  "content": {
+    "authoring": {
+      "correct": [
+        [
+          "942672518",
+          "3807764661",
+          "117301672",
+          "370792356",
+          "291868478"
+        ],
+        "3716473345"
+      ],
+      "parts": [
+        {
+          "gradingApproach": "automatic",
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": "For detailed explaination refer to module 2(Introduction to web pages)\n\n"
+                    }
+                  ],
+                  "id": "3963032507",
+                  "type": "p"
+                }
+              ],
+              "id": "2701730705"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "1146981992",
+                  "type": "p"
+                }
+              ],
+              "id": "2414051352"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "1114522790",
+                  "type": "p"
+                }
+              ],
+              "id": "3140633823"
+            }
+          ],
+          "id": "1",
+          "outOf": null,
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's Awesome! 🤩 .The sequence is web browser -> http request -> web server -> HTTP response -> content display"
+                      }
+                    ],
+                    "id": "3978692814",
+                    "type": "p"
+                  }
+                ],
+                "id": "2047703858"
+              },
+              "id": "3716473345",
+              "rule": "input like {942672518 3807764661 117301672 370792356 291868478}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's not the correct answer😕. But it's a learning moment for you!🤓"
+                      }
+                    ],
+                    "id": "1986359702",
+                    "type": "p"
+                  }
+                ],
+                "id": "4170804808"
+              },
+              "id": "1307331727",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "What happens as soon as you hit a URL in the web browser? Rearrange the options as per sequence",
+      "targeted": [],
+      "transformations": [
+        {
+          "id": "1485926365",
+          "operation": "shuffle",
+          "path": "choices"
+        }
+      ],
+      "version": 2
+    },
+    "choices": [
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "web server"
+              }
+            ],
+            "id": "1467355316",
+            "type": "p"
+          }
+        ],
+        "id": "117301672"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "HTTP request"
+              }
+            ],
+            "id": "1572842794",
+            "type": "p"
+          }
+        ],
+        "id": "3807764661"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "web browser"
+              }
+            ],
+            "id": "1695142584",
+            "type": "p"
+          }
+        ],
+        "id": "942672518"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "HTTP response"
+              }
+            ],
+            "id": "3575799857",
+            "type": "p"
+          }
+        ],
+        "id": "370792356"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "content display"
+              }
+            ],
+            "id": "584228934",
+            "type": "p"
+          }
+        ],
+        "id": "291868478"
+      }
+    ],
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "What happens as soon as you hit a URL in the web browser? Rearrange the options as per sequence"
+            }
+          ],
+          "id": "1195124118",
+          "type": "p"
+        }
+      ],
+      "id": "16182972"
+    }
+  },
+  "id": "6900",
+  "objectives": {
+    "1": [
+      "7772"
+    ]
+  },
+  "originalFile": "",
+  "subType": "oli_ordering",
+  "tags": [
+    "6895"
+  ],
+  "title": "3",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

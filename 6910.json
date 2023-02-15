@@ -1,0 +1,217 @@
+{
+  "content": {
+    "authoring": {
+      "correct": [
+        [
+          "3730586399",
+          "3676380344",
+          "156049686",
+          "1333542287"
+        ],
+        "4259501172"
+      ],
+      "parts": [
+        {
+          "gradingApproach": "automatic",
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": "It is the basic structure of HTML DOM"
+                    }
+                  ],
+                  "id": "163166179",
+                  "type": "p"
+                }
+              ],
+              "id": "2471374328"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": "what is the use of each and every tag?\n"
+                    }
+                  ],
+                  "id": "4271322891",
+                  "type": "p"
+                }
+              ],
+              "id": "2664927592"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": "What comes on after each tag in the HTML code\n\n"
+                    }
+                  ],
+                  "id": "3698745301",
+                  "type": "p"
+                }
+              ],
+              "id": "3179228009"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": "The sequence is html,head,title,body"
+                    }
+                  ],
+                  "id": "2713060985",
+                  "type": "p"
+                }
+              ],
+              "id": "970300077"
+            }
+          ],
+          "id": "1",
+          "outOf": null,
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's Awesome! 🤩. The sequence is html->head->title->body"
+                      }
+                    ],
+                    "id": "1060409502",
+                    "type": "p"
+                  }
+                ],
+                "id": "3770448780"
+              },
+              "id": "4259501172",
+              "rule": "input like {3730586399 3676380344 156049686 1333542287}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's not the correct answer😕. But it's a learning moment for you!🤓"
+                      }
+                    ],
+                    "id": "3872204950",
+                    "type": "p"
+                  }
+                ],
+                "id": "4026415426"
+              },
+              "id": "1227966919",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "Rearrange the options in a sequence",
+      "targeted": [],
+      "transformations": [
+        {
+          "id": "1437718610",
+          "operation": "shuffle",
+          "path": "choices"
+        }
+      ],
+      "version": 2
+    },
+    "choices": [
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "body"
+              }
+            ],
+            "id": "1454901068",
+            "type": "p"
+          }
+        ],
+        "id": "1333542287"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "html"
+              }
+            ],
+            "id": "2311718258",
+            "type": "p"
+          }
+        ],
+        "id": "3730586399"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "title"
+              }
+            ],
+            "id": "2765949800",
+            "type": "p"
+          }
+        ],
+        "id": "156049686"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "head"
+              }
+            ],
+            "id": "2744603536",
+            "type": "p"
+          }
+        ],
+        "id": "3676380344"
+      }
+    ],
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "Rearrange the options in a sequence"
+            }
+          ],
+          "id": "69343967",
+          "type": "p"
+        }
+      ],
+      "id": "3062004190"
+    }
+  },
+  "id": "6910",
+  "objectives": {
+    "1": [
+      "6922"
+    ]
+  },
+  "originalFile": "",
+  "subType": "oli_ordering",
+  "tags": [
+    "6936"
+  ],
+  "title": "7",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

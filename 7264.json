@@ -1,0 +1,123 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "886375024",
+                  "type": "p"
+                }
+              ],
+              "id": "3611695782"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "4283904565",
+                  "type": "p"
+                }
+              ],
+              "id": "3460831794"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "585909280",
+                  "type": "p"
+                }
+              ],
+              "id": "1539959964"
+            }
+          ],
+          "id": "1",
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "92028059",
+                    "type": "p"
+                  }
+                ],
+                "id": "3748377377"
+              },
+              "id": "3472909709",
+              "rule": "input like {([a-z])\\w+}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "\n\n"
+                      }
+                    ],
+                    "id": "3238581044",
+                    "type": "p"
+                  }
+                ],
+                "id": "437860723"
+              },
+              "id": "1483891435",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "Do you know how?\n",
+      "transformations": []
+    },
+    "inputType": "textarea",
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "Do you know how?\n"
+            }
+          ],
+          "id": "4188911919",
+          "type": "p"
+        }
+      ],
+      "id": "2033054381"
+    }
+  },
+  "id": "7264",
+  "objectives": {
+    "1": []
+  },
+  "originalFile": "",
+  "subType": "oli_short_answer",
+  "tags": [],
+  "title": "Single Response",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

@@ -1,0 +1,123 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "4012867568",
+                  "type": "p"
+                }
+              ],
+              "id": "205961779"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "3704258759",
+                  "type": "p"
+                }
+              ],
+              "id": "384144982"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "1041504989",
+                  "type": "p"
+                }
+              ],
+              "id": "511125053"
+            }
+          ],
+          "id": "1",
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "143950227",
+                    "type": "p"
+                  }
+                ],
+                "id": "2377936523"
+              },
+              "id": "1522281081",
+              "rule": "input like {([a-z])\\w+}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "\n\n"
+                      }
+                    ],
+                    "id": "3790252912",
+                    "type": "p"
+                  }
+                ],
+                "id": "1036968634"
+              },
+              "id": "780880657",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "Did you ever get to see HTTPS at the start of the URL in the browser after you add an URL?\n\n",
+      "transformations": []
+    },
+    "inputType": "textarea",
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "Did you ever get to see HTTPS at the start of the URL in the browser after you add an URL?\n\n"
+            }
+          ],
+          "id": "1619452264",
+          "type": "p"
+        }
+      ],
+      "id": "2297786454"
+    }
+  },
+  "id": "7265",
+  "objectives": {
+    "1": []
+  },
+  "originalFile": "",
+  "subType": "oli_short_answer",
+  "tags": [],
+  "title": "Single Response",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

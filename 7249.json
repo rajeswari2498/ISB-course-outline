@@ -1,0 +1,123 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "1452987401",
+                  "type": "p"
+                }
+              ],
+              "id": "212957593"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "3517164448",
+                  "type": "p"
+                }
+              ],
+              "id": "71237625"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "3558165758",
+                  "type": "p"
+                }
+              ],
+              "id": "2030016265"
+            }
+          ],
+          "id": "1",
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "1448306952",
+                    "type": "p"
+                  }
+                ],
+                "id": "2998577674"
+              },
+              "id": "1795180212",
+              "rule": "input like {([a-z])\\w+}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "4077417040",
+                    "type": "p"
+                  }
+                ],
+                "id": "2896992394"
+              },
+              "id": "1311615621",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "How will you define the internet in your own words?\n",
+      "transformations": []
+    },
+    "inputType": "textarea",
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "How will you define the internet in your own words?\n"
+            }
+          ],
+          "id": "214081176",
+          "type": "p"
+        }
+      ],
+      "id": "1831155959"
+    }
+  },
+  "id": "7249",
+  "objectives": {
+    "1": []
+  },
+  "originalFile": "",
+  "subType": "oli_short_answer",
+  "tags": [],
+  "title": "Single Response",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

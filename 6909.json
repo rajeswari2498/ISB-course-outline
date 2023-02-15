@@ -1,0 +1,194 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "gradingApproach": "automatic",
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": "The full form of HTML"
+                    }
+                  ],
+                  "id": "3182107003",
+                  "type": "p"
+                }
+              ],
+              "id": "2910771514"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": "For the fullform of HTML refer to module 5"
+                    }
+                  ],
+                  "id": "2583721044",
+                  "type": "p"
+                }
+              ],
+              "id": "2559512077"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": "HTML stands for Hyper Text Transfer Protocol"
+                    }
+                  ],
+                  "id": "1100701260",
+                  "type": "p"
+                }
+              ],
+              "id": "704501042"
+            }
+          ],
+          "id": "1",
+          "outOf": null,
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's Awesome! 🤩.Fullform of HTML is Hyper Text Markup Language"
+                      }
+                    ],
+                    "id": "4224700473",
+                    "type": "p"
+                  }
+                ],
+                "id": "279833526"
+              },
+              "id": "2541037172",
+              "rule": "input like {2912093130}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's not the correct answer😕. But it's a learning moment for you!🤓"
+                      }
+                    ],
+                    "id": "3686625398",
+                    "type": "p"
+                  }
+                ],
+                "id": "568539589"
+              },
+              "id": "466274633",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "HTML stands for ____________",
+      "targeted": [],
+      "transformations": [
+        {
+          "id": "2742401941",
+          "operation": "shuffle",
+          "path": "choices"
+        }
+      ],
+      "version": 2
+    },
+    "choices": [
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Hyper Text Markup Language"
+              }
+            ],
+            "id": "1663105427",
+            "type": "p"
+          }
+        ],
+        "id": "2912093130"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Hyper Tax Make Line"
+              }
+            ],
+            "id": "3365858679",
+            "type": "p"
+          }
+        ],
+        "id": "1567126434"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Holistic Technical Method Library"
+              }
+            ],
+            "id": "3730528065",
+            "type": "p"
+          }
+        ],
+        "id": "1320115046"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "None of them"
+              }
+            ],
+            "id": "3054998409",
+            "type": "p"
+          }
+        ],
+        "id": "1357149566"
+      }
+    ],
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "HTML stands for ____________"
+            }
+          ],
+          "id": "305483357",
+          "type": "p"
+        }
+      ],
+      "id": "2223853497"
+    }
+  },
+  "id": "6909",
+  "objectives": {
+    "1": [
+      "6922"
+    ]
+  },
+  "originalFile": "",
+  "subType": "oli_multiple_choice",
+  "tags": [
+    "6936"
+  ],
+  "title": "6",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

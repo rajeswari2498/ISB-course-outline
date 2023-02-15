@@ -1,0 +1,22 @@
+{
+  "content": {
+    "model": [
+      {
+        "activity_id": 7340,
+        "children": [],
+        "id": "2858762221",
+        "purpose": "none",
+        "type": "activity-reference"
+      }
+    ],
+    "version": "0.1.0"
+  },
+  "id": "7002",
+  "isGraded": false,
+  "objectives": [],
+  "originalFile": "",
+  "tags": [],
+  "title": "Summary",
+  "type": "Page",
+  "unresolvedReferences": []
+}

@@ -1,0 +1,132 @@
+{
+  "content": {
+    "model": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "strong": true,
+                "text": "Introduction to Web Applications"
+              }
+            ],
+            "id": "847867959",
+            "type": "h2"
+          },
+          {
+            "children": [
+              {
+                "strong": true,
+                "text": "What is a Web Application?"
+              }
+            ],
+            "id": "847867959",
+            "type": "p"
+          },
+          {
+            "children": [
+              {
+                "text": "A web application uses online technology (including browsers) to perform a huge range of different tasks. They can serve all sorts of different purposes, from ordering takeaway food to booking holidays. Alternatively, a web app may be something as simple as website contact forms or online calculators. Common types of web applications include shopping carts, content management systems, and online forms, as we’ve already mentioned."
+              }
+            ],
+            "id": "847867959",
+            "type": "p"
+          },
+          {
+            "children": [
+              {
+                "text": "Frontend and Backend are the two most popular terms used in web development. These terms are very crucial for web development but are quite different from each other."
+              }
+            ],
+            "id": "847867959",
+            "type": "p"
+          },
+          {
+            "children": [
+              {
+                "strong": true,
+                "text": "Front-End Development:"
+              }
+            ],
+            "id": "847867959",
+            "type": "p"
+          },
+          {
+            "children": [
+              {
+                "text": "The part of a website that the user interacts with is known as the front end. It is also known as the client side of the application. It contains everything users see directly: fonts, colors, images, graphs, tables, buttons, and colors. Languages used for front-end development include HTML, CSS, and JavaScript. A Front End developer is responsible for the structure, design, behavior, and content of everything that appears on browser screens when websites, web applications, or mobile apps are opened. Front-end design focuses on responsiveness and performance. The developer must ensure that the site is responsive i.e. it appears correctly on devices of all sizes. No part of the website should behave abnormally irrespective of the size of the screen. "
+              }
+            ],
+            "id": "847867959",
+            "type": "p"
+          },
+          {
+            "children": [
+              {
+                "strong": true,
+                "text": "Back-End Development:"
+              }
+            ],
+            "id": "847867959",
+            "type": "p"
+          },
+          {
+            "children": [
+              {
+                "text": "Back-end development means working on server-side software, which focuses on everything you can’t see on a website. Back-end developers ensure the website performs correctly, focusing on databases, back-end logic, application programming interfaces (APIs), architecture, and servers. They use code that helps browsers communicate with databases, and store, understand, and delete data. Languages used for backend development are python, PHP, Ruby, etc. Some of the frameworks used in the backend are nodejs. Django, Asp .NET, etc."
+              }
+            ],
+            "id": "847867959",
+            "type": "p"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "id": "847867959",
+            "type": "p"
+          }
+        ],
+        "id": "3120085419",
+        "purpose": "none",
+        "type": "content"
+      },
+      {
+        "children": [
+          {
+            "count": 5,
+            "id": "2946998873",
+            "logic": {
+              "conditions": {
+                "fact": "tags",
+                "operator": "contains",
+                "value": [
+                  6911
+                ]
+              }
+            },
+            "purpose": "none",
+            "type": "selection"
+          }
+        ],
+        "id": "2931268210",
+        "layout": "vertical",
+        "purpose": "didigetthis",
+        "type": "group"
+      }
+    ],
+    "version": "0.1.0"
+  },
+  "id": "6865",
+  "isGraded": false,
+  "objectives": [
+    "6920"
+  ],
+  "originalFile": "",
+  "tags": [],
+  "title": "Brief overview of Frontend and Backend",
+  "type": "Page",
+  "unresolvedReferences": []
+}

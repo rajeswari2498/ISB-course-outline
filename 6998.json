@@ -1,0 +1,51 @@
+{
+  "content": {
+    "model": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "id": "2968402849",
+            "type": "p"
+          }
+        ],
+        "id": "3627893199",
+        "purpose": "none",
+        "type": "content"
+      },
+      {
+        "count": 11,
+        "id": "2023433811",
+        "logic": {
+          "conditions": {
+            "fact": "tags",
+            "operator": "contains",
+            "value": [
+              6939
+            ]
+          }
+        },
+        "purpose": "none",
+        "type": "selection"
+      }
+    ],
+    "version": "0.1.0"
+  },
+  "id": "6998",
+  "isGraded": true,
+  "objectives": [
+    "7247",
+    "7248",
+    "7772",
+    "6920"
+  ],
+  "originalFile": "",
+  "tags": [],
+  "title": "[Pre-Test] Introduction to Web Applications ",
+  "type": "Page",
+  "unresolvedReferences": []
+}

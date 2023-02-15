@@ -1,0 +1,208 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "gradingApproach": "automatic",
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "4111951555",
+                  "type": "p"
+                }
+              ],
+              "id": "2326619860"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "2088295181",
+                  "type": "p"
+                }
+              ],
+              "id": "2680664933"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "212682225",
+                  "type": "p"
+                }
+              ],
+              "id": "3757491770"
+            }
+          ],
+          "id": "1",
+          "outOf": null,
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's Awesome! 🤩.Website is a collection of webpages,graphic files,Audio and video files etc."
+                      }
+                    ],
+                    "id": "3259252357",
+                    "type": "p"
+                  }
+                ],
+                "id": "608450918"
+              },
+              "id": "3540302494",
+              "rule": "input like {3772581632}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's not the correct answer😕. But it's a learning moment for you!🤓"
+                      }
+                    ],
+                    "id": "4171448487",
+                    "type": "p"
+                  }
+                ],
+                "id": "1241039097"
+              },
+              "id": "331250963",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "Website is a collection of _________________?",
+      "targeted": [],
+      "transformations": [
+        {
+          "id": "362371507",
+          "operation": "shuffle",
+          "path": "choices"
+        }
+      ],
+      "version": 2
+    },
+    "choices": [
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Web pages"
+              }
+            ],
+            "id": "1217725839",
+            "type": "p"
+          }
+        ],
+        "id": "1461891341"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Graphic Files"
+              }
+            ],
+            "id": "4115276382",
+            "type": "p"
+          }
+        ],
+        "id": "2546375308"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Audio and video files"
+              }
+            ],
+            "id": "532737349",
+            "type": "p"
+          }
+        ],
+        "id": "84062249"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "All of them"
+              }
+            ],
+            "id": "4244086515",
+            "type": "p"
+          }
+        ],
+        "id": "3772581632"
+      }
+    ],
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "Website is a collection of _________________?"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "href": "https://pakmcqs.com/computer-mcqs/website-is-a-collection-of-________",
+              "id": "265664595",
+              "target": "self",
+              "type": "a"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "id": "737671465",
+          "type": "p"
+        }
+      ],
+      "id": "2071351004"
+    }
+  },
+  "id": "6943",
+  "objectives": {
+    "1": [
+      "7772"
+    ]
+  },
+  "originalFile": "",
+  "subType": "oli_multiple_choice",
+  "tags": [
+    "6939"
+  ],
+  "title": "13",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

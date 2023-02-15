@@ -1,0 +1,194 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "gradingApproach": "automatic",
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "1532161571",
+                  "type": "p"
+                }
+              ],
+              "id": "1441566491"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "1624365225",
+                  "type": "p"
+                }
+              ],
+              "id": "989190787"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "1537485689",
+                  "type": "p"
+                }
+              ],
+              "id": "3360158793"
+            }
+          ],
+          "id": "1",
+          "outOf": null,
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's Awesome! 🤩.Fullform of HTTP is Hyper Text Transfer Protocol"
+                      }
+                    ],
+                    "id": "50647425",
+                    "type": "p"
+                  }
+                ],
+                "id": "2851177680"
+              },
+              "id": "641510042",
+              "rule": "input like {1783860816}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's not the correct answer😕. But it's a learning moment for you!🤓"
+                      }
+                    ],
+                    "id": "1170095557",
+                    "type": "p"
+                  }
+                ],
+                "id": "1397240935"
+              },
+              "id": "3589743249",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "\n HTTP stands for",
+      "targeted": [],
+      "transformations": [
+        {
+          "id": "685516248",
+          "operation": "shuffle",
+          "path": "choices"
+        }
+      ],
+      "version": 2
+    },
+    "choices": [
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Hyper Text Transfer Protocol"
+              }
+            ],
+            "id": "1980502478",
+            "type": "p"
+          }
+        ],
+        "id": "1783860816"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Hyper Text Transfer package"
+              }
+            ],
+            "id": "2911424716",
+            "type": "p"
+          }
+        ],
+        "id": "1681249500"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Hyphenation Text Test Program"
+              }
+            ],
+            "id": "411796151",
+            "type": "p"
+          }
+        ],
+        "id": "1910796415"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "None of them"
+              }
+            ],
+            "id": "816370848",
+            "type": "p"
+          }
+        ],
+        "id": "3213135908"
+      }
+    ],
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "\n HTTP stands for"
+            }
+          ],
+          "id": "2619752985",
+          "type": "p"
+        }
+      ],
+      "id": "3502686589"
+    }
+  },
+  "id": "6952",
+  "objectives": {
+    "1": [
+      "7772"
+    ]
+  },
+  "originalFile": "",
+  "subType": "oli_multiple_choice",
+  "tags": [
+    "6950"
+  ],
+  "title": "17",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

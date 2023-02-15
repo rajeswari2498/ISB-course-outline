@@ -1,0 +1,194 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "gradingApproach": "automatic",
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "2092915823",
+                  "type": "p"
+                }
+              ],
+              "id": "4132683351"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "3444177580",
+                  "type": "p"
+                }
+              ],
+              "id": "941342373"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "1823612894",
+                  "type": "p"
+                }
+              ],
+              "id": "1404865610"
+            }
+          ],
+          "id": "1",
+          "outOf": null,
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's Awesome! 🤩.The <html> tag represents the root of an HTML document, hence also called as the root element. "
+                      }
+                    ],
+                    "id": "1416628553",
+                    "type": "p"
+                  }
+                ],
+                "id": "2121136533"
+              },
+              "id": "1425473329",
+              "rule": "input like {3075269288}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's not the correct answer😕. But it's a learning moment for you!🤓"
+                      }
+                    ],
+                    "id": "943550020",
+                    "type": "p"
+                  }
+                ],
+                "id": "2586346502"
+              },
+              "id": "4261636503",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "Which of the following is the root tag of the html document?",
+      "targeted": [],
+      "transformations": [
+        {
+          "id": "388037839",
+          "operation": "shuffle",
+          "path": "choices"
+        }
+      ],
+      "version": 2
+    },
+    "choices": [
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "<body>"
+              }
+            ],
+            "id": "775756112",
+            "type": "p"
+          }
+        ],
+        "id": "1070781152"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "<head>"
+              }
+            ],
+            "id": "40928377",
+            "type": "p"
+          }
+        ],
+        "id": "3017447552"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "<title>"
+              }
+            ],
+            "id": "2361866077",
+            "type": "p"
+          }
+        ],
+        "id": "2172965584"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "<html>"
+              }
+            ],
+            "id": "3119391792",
+            "type": "p"
+          }
+        ],
+        "id": "3075269288"
+      }
+    ],
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "Which of the following is the root tag of the html document?"
+            }
+          ],
+          "id": "374500217",
+          "type": "p"
+        }
+      ],
+      "id": "1357192671"
+    }
+  },
+  "id": "6974",
+  "objectives": {
+    "1": [
+      "6922"
+    ]
+  },
+  "originalFile": "",
+  "subType": "oli_multiple_choice",
+  "tags": [
+    "6971"
+  ],
+  "title": "28",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

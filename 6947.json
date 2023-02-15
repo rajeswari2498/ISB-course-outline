@@ -1,0 +1,194 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "gradingApproach": "automatic",
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "4051824359",
+                  "type": "p"
+                }
+              ],
+              "id": "3597069288"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "998525683",
+                  "type": "p"
+                }
+              ],
+              "id": "1667281574"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "2412165550",
+                  "type": "p"
+                }
+              ],
+              "id": "1807542497"
+            }
+          ],
+          "id": "1",
+          "outOf": null,
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's Awesome! 🤩.Google chrome,Safari,fireforx,Internet Explorer etc all these are examples of web browsers which we frequently use in our daily life"
+                      }
+                    ],
+                    "id": "3057067944",
+                    "type": "p"
+                  }
+                ],
+                "id": "3977564674"
+              },
+              "id": "3012141386",
+              "rule": "input like {2954704915}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's not the correct answer😕. But it's a learning moment for you!🤓"
+                      }
+                    ],
+                    "id": "3126228062",
+                    "type": "p"
+                  }
+                ],
+                "id": "755620882"
+              },
+              "id": "1238886285",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "Which among these is/are examples of web browers",
+      "targeted": [],
+      "transformations": [
+        {
+          "id": "2427659281",
+          "operation": "shuffle",
+          "path": "choices"
+        }
+      ],
+      "version": 2
+    },
+    "choices": [
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Internet Explorer"
+              }
+            ],
+            "id": "3940387855",
+            "type": "p"
+          }
+        ],
+        "id": "2417846441"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Google Chrome"
+              }
+            ],
+            "id": "753753948",
+            "type": "p"
+          }
+        ],
+        "id": "4019484962"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Firefox"
+              }
+            ],
+            "id": "418727350",
+            "type": "p"
+          }
+        ],
+        "id": "1253155474"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "All of them"
+              }
+            ],
+            "id": "274916816",
+            "type": "p"
+          }
+        ],
+        "id": "2954704915"
+      }
+    ],
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "Which among these is/are examples of web browers"
+            }
+          ],
+          "id": "1584480394",
+          "type": "p"
+        }
+      ],
+      "id": "3672397429"
+    }
+  },
+  "id": "6947",
+  "objectives": {
+    "1": [
+      "7772"
+    ]
+  },
+  "originalFile": "",
+  "subType": "oli_multiple_choice",
+  "tags": [
+    "6939"
+  ],
+  "title": "15",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

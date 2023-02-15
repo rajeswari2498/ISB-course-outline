@@ -1,0 +1,123 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "1094996432",
+                  "type": "p"
+                }
+              ],
+              "id": "1015501504"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "552343897",
+                  "type": "p"
+                }
+              ],
+              "id": "3949416517"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "1189034291",
+                  "type": "p"
+                }
+              ],
+              "id": "300815561"
+            }
+          ],
+          "id": "1",
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "2661568883",
+                    "type": "p"
+                  }
+                ],
+                "id": "2462481171"
+              },
+              "id": "3977183673",
+              "rule": "input like {([a-z])\\w+}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "1527594215",
+                    "type": "p"
+                  }
+                ],
+                "id": "592297634"
+              },
+              "id": "2734534484",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "Can you think of a way to solve this problem? \n\n",
+      "transformations": []
+    },
+    "inputType": "textarea",
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "Can you think of a way to solve this problem? \n\n"
+            }
+          ],
+          "id": "754632308",
+          "type": "p"
+        }
+      ],
+      "id": "3621163948"
+    }
+  },
+  "id": "7255",
+  "objectives": {
+    "1": []
+  },
+  "originalFile": "",
+  "subType": "oli_short_answer",
+  "tags": [],
+  "title": "Single Response",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

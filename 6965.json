@@ -1,0 +1,194 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "gradingApproach": "automatic",
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "4020279152",
+                  "type": "p"
+                }
+              ],
+              "id": "25791775"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "2264014555",
+                  "type": "p"
+                }
+              ],
+              "id": "4279200594"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "2951782631",
+                  "type": "p"
+                }
+              ],
+              "id": "213004484"
+            }
+          ],
+          "id": "1",
+          "outOf": null,
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's Awesome! 🤩. the body tag is a container for all the visible contents such as headings, paragraphs,images, etc"
+                      }
+                    ],
+                    "id": "532293954",
+                    "type": "p"
+                  }
+                ],
+                "id": "665985453"
+              },
+              "id": "871262584",
+              "rule": "input like {4100103900}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's not the correct answer😕. But it's a learning moment for you!🤓"
+                      }
+                    ],
+                    "id": "2662987370",
+                    "type": "p"
+                  }
+                ],
+                "id": "3475475163"
+              },
+              "id": "687200878",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "\n<body> tag is used as",
+      "targeted": [],
+      "transformations": [
+        {
+          "id": "762904372",
+          "operation": "shuffle",
+          "path": "choices"
+        }
+      ],
+      "version": 2
+    },
+    "choices": [
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "specifying title for the webpage"
+              }
+            ],
+            "id": "1435264782",
+            "type": "p"
+          }
+        ],
+        "id": "897577336"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "container for all the visible contents such as headings,paragraphs,images etc"
+              }
+            ],
+            "id": "1300461108",
+            "type": "p"
+          }
+        ],
+        "id": "4100103900"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "root element of HTML page"
+              }
+            ],
+            "id": "3029412413",
+            "type": "p"
+          }
+        ],
+        "id": "2025910800"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "All of them"
+              }
+            ],
+            "id": "2432038225",
+            "type": "p"
+          }
+        ],
+        "id": "3755923797"
+      }
+    ],
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "\n<body> tag is used as"
+            }
+          ],
+          "id": "66820881",
+          "type": "p"
+        }
+      ],
+      "id": "4262677918"
+    }
+  },
+  "id": "6965",
+  "objectives": {
+    "1": [
+      "6922"
+    ]
+  },
+  "originalFile": "",
+  "subType": "oli_multiple_choice",
+  "tags": [
+    "6962"
+  ],
+  "title": "23",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

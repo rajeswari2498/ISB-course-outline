@@ -1,0 +1,123 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "774701593",
+                  "type": "p"
+                }
+              ],
+              "id": "854319588"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "2524682087",
+                  "type": "p"
+                }
+              ],
+              "id": "3143051998"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "709898128",
+                  "type": "p"
+                }
+              ],
+              "id": "3998109727"
+            }
+          ],
+          "id": "1",
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "3268516163",
+                    "type": "p"
+                  }
+                ],
+                "id": "1319214030"
+              },
+              "id": "3641079988",
+              "rule": "input like {([a-z])\\w+}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "4171453326",
+                    "type": "p"
+                  }
+                ],
+                "id": "1007232317"
+              },
+              "id": "3439316227",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "What will you do, if you have a bunch of flashcards and want to remember the sequence of them?\n\n",
+      "transformations": []
+    },
+    "inputType": "textarea",
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "What will you do, if you have a bunch of flashcards and want to remember the sequence of them?\n\n"
+            }
+          ],
+          "id": "2921412370",
+          "type": "p"
+        }
+      ],
+      "id": "1410989582"
+    }
+  },
+  "id": "7261",
+  "objectives": {
+    "1": []
+  },
+  "originalFile": "",
+  "subType": "oli_short_answer",
+  "tags": [],
+  "title": "Single Response",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

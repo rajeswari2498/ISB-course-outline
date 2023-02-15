@@ -1,0 +1,194 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "gradingApproach": "automatic",
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "2408120329",
+                  "type": "p"
+                }
+              ],
+              "id": "240173361"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "3289631901",
+                  "type": "p"
+                }
+              ],
+              "id": "2001308553"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "3606357866",
+                  "type": "p"
+                }
+              ],
+              "id": "781327100"
+            }
+          ],
+          "id": "1",
+          "outOf": null,
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's Awesome! 🤩. head tag in HTML contains meta-information about the HTML page\n"
+                      }
+                    ],
+                    "id": "3767601410",
+                    "type": "p"
+                  }
+                ],
+                "id": "1835132612"
+              },
+              "id": "1642532436",
+              "rule": "input like {3605888846}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's not the correct answer😕. But it's a learning moment for you!🤓"
+                      }
+                    ],
+                    "id": "3573927354",
+                    "type": "p"
+                  }
+                ],
+                "id": "692825714"
+              },
+              "id": "1644711245",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "\n<head> tag in html ",
+      "targeted": [],
+      "transformations": [
+        {
+          "id": "2656619237",
+          "operation": "shuffle",
+          "path": "choices"
+        }
+      ],
+      "version": 2
+    },
+    "choices": [
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "is a root element of html page"
+              }
+            ],
+            "id": "1150716438",
+            "type": "p"
+          }
+        ],
+        "id": "2652069868"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "is used to specify title for the webpage"
+              }
+            ],
+            "id": "3498488790",
+            "type": "p"
+          }
+        ],
+        "id": "139521919"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Contains meta-information about the HTML page"
+              }
+            ],
+            "id": "2182831202",
+            "type": "p"
+          }
+        ],
+        "id": "3605888846"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "None of them"
+              }
+            ],
+            "id": "774418750",
+            "type": "p"
+          }
+        ],
+        "id": "2730710604"
+      }
+    ],
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "\n<head> tag in html "
+            }
+          ],
+          "id": "2934748979",
+          "type": "p"
+        }
+      ],
+      "id": "1077196927"
+    }
+  },
+  "id": "6964",
+  "objectives": {
+    "1": [
+      "6922"
+    ]
+  },
+  "originalFile": "",
+  "subType": "oli_multiple_choice",
+  "tags": [
+    "6962"
+  ],
+  "title": "22",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

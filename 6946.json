@@ -1,0 +1,194 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "gradingApproach": "automatic",
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "3614764011",
+                  "type": "p"
+                }
+              ],
+              "id": "419434038"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "800998907",
+                  "type": "p"
+                }
+              ],
+              "id": "1159381127"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "788504964",
+                  "type": "p"
+                }
+              ],
+              "id": "3526177837"
+            }
+          ],
+          "id": "1",
+          "outOf": null,
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's Awesome! 🤩.Web development is a combination of both frontend and backend"
+                      }
+                    ],
+                    "id": "981346021",
+                    "type": "p"
+                  }
+                ],
+                "id": "2599535102"
+              },
+              "id": "2811930561",
+              "rule": "input like {4030572393}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's not the correct answer😕. But it's a learning moment for you!🤓"
+                      }
+                    ],
+                    "id": "1806299154",
+                    "type": "p"
+                  }
+                ],
+                "id": "3640266016"
+              },
+              "id": "1960573401",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "Web development consists of",
+      "targeted": [],
+      "transformations": [
+        {
+          "id": "682917041",
+          "operation": "shuffle",
+          "path": "choices"
+        }
+      ],
+      "version": 2
+    },
+    "choices": [
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Frontend"
+              }
+            ],
+            "id": "390783386",
+            "type": "p"
+          }
+        ],
+        "id": "3679279322"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Backend"
+              }
+            ],
+            "id": "2066228369",
+            "type": "p"
+          }
+        ],
+        "id": "1348782977"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Both frontend and backend"
+              }
+            ],
+            "id": "2236386803",
+            "type": "p"
+          }
+        ],
+        "id": "4030572393"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "None of them"
+              }
+            ],
+            "id": "595091310",
+            "type": "p"
+          }
+        ],
+        "id": "1187580536"
+      }
+    ],
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "Web development consists of"
+            }
+          ],
+          "id": "4292808724",
+          "type": "p"
+        }
+      ],
+      "id": "1988775924"
+    }
+  },
+  "id": "6946",
+  "objectives": {
+    "1": [
+      "6920"
+    ]
+  },
+  "originalFile": "",
+  "subType": "oli_multiple_choice",
+  "tags": [
+    "6939"
+  ],
+  "title": "14",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

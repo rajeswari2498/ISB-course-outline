@@ -1,0 +1,133 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "idref": "6997",
+              "type": "item"
+            },
+            {
+              "children": [],
+              "idref": "6998",
+              "type": "item"
+            }
+          ],
+          "id": "6858",
+          "tags": [],
+          "title": "Introduction",
+          "type": "container"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "idref": "6863",
+              "type": "item"
+            },
+            {
+              "children": [],
+              "idref": "7242",
+              "type": "item"
+            },
+            {
+              "children": [],
+              "idref": "6865",
+              "type": "item"
+            }
+          ],
+          "id": "6860",
+          "tags": [],
+          "title": "[Practice] Introduction to Web Applications",
+          "type": "container"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "idref": "7001",
+              "type": "item"
+            },
+            {
+              "children": [],
+              "idref": "7002",
+              "type": "item"
+            }
+          ],
+          "id": "6862",
+          "tags": [],
+          "title": "Wrap Up",
+          "type": "container"
+        }
+      ],
+      "id": "6854",
+      "tags": [],
+      "title": "Introduction to Web Applications",
+      "type": "container"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "idref": "7003",
+              "type": "item"
+            },
+            {
+              "children": [],
+              "idref": "7004",
+              "type": "item"
+            }
+          ],
+          "id": "6869",
+          "tags": [],
+          "title": "Introduction",
+          "type": "container"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "idref": "6872",
+              "type": "item"
+            }
+          ],
+          "id": "6870",
+          "tags": [],
+          "title": "[Practice] Introduction to HTML",
+          "type": "container"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "idref": "7006",
+              "type": "item"
+            },
+            {
+              "children": [],
+              "idref": "7007",
+              "type": "item"
+            }
+          ],
+          "id": "6871",
+          "tags": [],
+          "title": "Wrap Up",
+          "type": "container"
+        }
+      ],
+      "id": "6855",
+      "tags": [],
+      "title": "Introduction to HTML",
+      "type": "container"
+    }
+  ],
+  "id": "",
+  "originalFile": "",
+  "tags": [],
+  "title": "",
+  "type": "Hierarchy"
+}

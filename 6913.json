@@ -1,0 +1,194 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "gradingApproach": "automatic",
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": "Each tag starts with a tag opener and ends with a tag closer which can be usually seen in the HTML program in each line\n\n\n"
+                    }
+                  ],
+                  "id": "509558939",
+                  "type": "p"
+                }
+              ],
+              "id": "3050633209"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "4108837886",
+                  "type": "p"
+                }
+              ],
+              "id": "1743619592"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "1513941430",
+                  "type": "p"
+                }
+              ],
+              "id": "4007133349"
+            }
+          ],
+          "id": "1",
+          "outOf": null,
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's Awesome! 🤩<> are HTML tags"
+                      }
+                    ],
+                    "id": "36836844",
+                    "type": "p"
+                  }
+                ],
+                "id": "2638602397"
+              },
+              "id": "3379683730",
+              "rule": "input like {3391181951}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's not the correct answer😕. But it's a learning moment for you!🤓"
+                      }
+                    ],
+                    "id": "2439983225",
+                    "type": "p"
+                  }
+                ],
+                "id": "724715918"
+              },
+              "id": "1855176901",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "All the HTML tags are enclosed in what?",
+      "targeted": [],
+      "transformations": [
+        {
+          "id": "4143816366",
+          "operation": "shuffle",
+          "path": "choices"
+        }
+      ],
+      "version": 2
+    },
+    "choices": [
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "#and#"
+              }
+            ],
+            "id": "2977384462",
+            "type": "p"
+          }
+        ],
+        "id": "1328064995"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "?and!"
+              }
+            ],
+            "id": "3326179610",
+            "type": "p"
+          }
+        ],
+        "id": "1188347709"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "<and>"
+              }
+            ],
+            "id": "1418443790",
+            "type": "p"
+          }
+        ],
+        "id": "3391181951"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "{and}"
+              }
+            ],
+            "id": "1112118948",
+            "type": "p"
+          }
+        ],
+        "id": "1321811153"
+      }
+    ],
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "All the HTML tags are enclosed in what?"
+            }
+          ],
+          "id": "2820462916",
+          "type": "p"
+        }
+      ],
+      "id": "2103177141"
+    }
+  },
+  "id": "6913",
+  "objectives": {
+    "1": [
+      "6922"
+    ]
+  },
+  "originalFile": "",
+  "subType": "oli_multiple_choice",
+  "tags": [
+    "6936"
+  ],
+  "title": "8",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

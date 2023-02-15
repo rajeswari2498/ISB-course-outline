@@ -1,0 +1,158 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": "Reflection on the topics covered so far helps to memorize and build conceptual maps in the brain. So you don't want to miss out on this."
+                    }
+                  ],
+                  "id": "1591818787",
+                  "type": "p"
+                }
+              ],
+              "id": "3143268677"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "1076264631",
+                  "type": "p"
+                }
+              ],
+              "id": "1538971774"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "1990428023",
+                  "type": "p"
+                }
+              ],
+              "id": "2662065167"
+            }
+          ],
+          "id": "1",
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "strong": true,
+                        "text": "HTML "
+                      },
+                      {
+                        "text": "stands for Hyper Text Markup Language. with HTML you can create your own website. "
+                      }
+                    ],
+                    "id": "771683677",
+                    "type": "p"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "HTML consists of HTML tags, elements, and attributes."
+                      }
+                    ],
+                    "id": "771683677",
+                    "type": "p"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "HTML code is written in a sequence <html><head><title></title></head><body></body></html>.This is a standard format of HTML."
+                      }
+                    ],
+                    "id": "771683677",
+                    "type": "p"
+                  },
+                  {
+                    "children": [
+                      {
+                        "strong": true,
+                        "text": "DOM "
+                      },
+                      {
+                        "text": "stands for Document Object Model which is a tree-like structure that describes how all these elements relate to each other."
+                      }
+                    ],
+                    "id": "1921467722",
+                    "type": "p"
+                  }
+                ],
+                "id": "29052994"
+              },
+              "id": "2474218700",
+              "rule": "input like {([a-z])\\w+}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "Reflection is an important step in learning. Don't miss out, Try again!"
+                      }
+                    ],
+                    "id": "1574740981",
+                    "type": "p"
+                  }
+                ],
+                "id": "2489710020"
+              },
+              "id": "1432362187",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "Recall, in your words the key learnings from this unit Introduction to HTML and DOM",
+      "transformations": []
+    },
+    "inputType": "textarea",
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "Recall, in your words the key learnings from this unit Introduction to HTML and DOM"
+            }
+          ],
+          "id": "3321605741",
+          "type": "p"
+        }
+      ],
+      "id": "1203068420"
+    }
+  },
+  "id": "7343",
+  "objectives": {
+    "1": []
+  },
+  "originalFile": "",
+  "subType": "oli_short_answer",
+  "tags": [],
+  "title": "Single Response",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

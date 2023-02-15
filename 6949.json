@@ -1,0 +1,194 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "gradingApproach": "automatic",
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "2580270458",
+                  "type": "p"
+                }
+              ],
+              "id": "3569906875"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "2707766705",
+                  "type": "p"
+                }
+              ],
+              "id": "1732489728"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "4021936646",
+                  "type": "p"
+                }
+              ],
+              "id": "1684167469"
+            }
+          ],
+          "id": "1",
+          "outOf": null,
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's Awesome! 🤩.Fullform of DNS is Domain Name System"
+                      }
+                    ],
+                    "id": "2468374563",
+                    "type": "p"
+                  }
+                ],
+                "id": "241882538"
+              },
+              "id": "2689925893",
+              "rule": "input like {2033038061}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's not the correct answer😕. But it's a learning moment for you!🤓"
+                      }
+                    ],
+                    "id": "211833193",
+                    "type": "p"
+                  }
+                ],
+                "id": "1137470508"
+              },
+              "id": "2610607776",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "DNS stands for",
+      "targeted": [],
+      "transformations": [
+        {
+          "id": "2960728005",
+          "operation": "shuffle",
+          "path": "choices"
+        }
+      ],
+      "version": 2
+    },
+    "choices": [
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Data Net Service "
+              }
+            ],
+            "id": "3920591027",
+            "type": "p"
+          }
+        ],
+        "id": "1246563755"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Data Net System"
+              }
+            ],
+            "id": "3611476257",
+            "type": "p"
+          }
+        ],
+        "id": "2700818070"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Domain Name Setup"
+              }
+            ],
+            "id": "683901100",
+            "type": "p"
+          }
+        ],
+        "id": "2955287836"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Domain Name System"
+              }
+            ],
+            "id": "1881368650",
+            "type": "p"
+          }
+        ],
+        "id": "2033038061"
+      }
+    ],
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "DNS stands for"
+            }
+          ],
+          "id": "1417968197",
+          "type": "p"
+        }
+      ],
+      "id": "2143941663"
+    }
+  },
+  "id": "6949",
+  "objectives": {
+    "1": [
+      "7772"
+    ]
+  },
+  "originalFile": "",
+  "subType": "oli_multiple_choice",
+  "tags": [
+    "6950"
+  ],
+  "title": "16",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

@@ -1,0 +1,194 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "gradingApproach": "automatic",
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "2753539705",
+                  "type": "p"
+                }
+              ],
+              "id": "2335589796"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "3572699285",
+                  "type": "p"
+                }
+              ],
+              "id": "1104814324"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "2978655977",
+                  "type": "p"
+                }
+              ],
+              "id": "2232160083"
+            }
+          ],
+          "id": "1",
+          "outOf": null,
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's Awesome! 🤩. The <!DOCTYPE html> tag is used to inform the browser about the version of HTML used in the document"
+                      }
+                    ],
+                    "id": "140216990",
+                    "type": "p"
+                  }
+                ],
+                "id": "4293289298"
+              },
+              "id": "942274755",
+              "rule": "input like {2495763099}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's not the correct answer😕. But it's a learning moment for you!🤓"
+                      }
+                    ],
+                    "id": "1766012984",
+                    "type": "p"
+                  }
+                ],
+                "id": "1015335829"
+              },
+              "id": "2531045317",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "\nWhich of the following tag is used to initialize the document type in HTML?",
+      "targeted": [],
+      "transformations": [
+        {
+          "id": "2923813051",
+          "operation": "shuffle",
+          "path": "choices"
+        }
+      ],
+      "version": 2
+    },
+    "choices": [
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "<Doctype HTML>"
+              }
+            ],
+            "id": "865021970",
+            "type": "p"
+          }
+        ],
+        "id": "2815730910"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "<\\Doctype html>"
+              }
+            ],
+            "id": "750051393",
+            "type": "p"
+          }
+        ],
+        "id": "4217755538"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "<Doctype>"
+              }
+            ],
+            "id": "256514492",
+            "type": "p"
+          }
+        ],
+        "id": "452593730"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "<!DOCTYPE html>"
+              }
+            ],
+            "id": "2549247345",
+            "type": "p"
+          }
+        ],
+        "id": "2495763099"
+      }
+    ],
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "\nWhich of the following tag is used to initialize the document type in HTML?"
+            }
+          ],
+          "id": "382822216",
+          "type": "p"
+        }
+      ],
+      "id": "4112098758"
+    }
+  },
+  "id": "6977",
+  "objectives": {
+    "1": [
+      "6922"
+    ]
+  },
+  "originalFile": "",
+  "subType": "oli_multiple_choice",
+  "tags": [
+    "6971"
+  ],
+  "title": "30",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

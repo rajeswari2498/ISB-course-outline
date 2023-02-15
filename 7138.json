@@ -1,0 +1,123 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "1498575062",
+                  "type": "p"
+                }
+              ],
+              "id": "3957693469"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "2523719034",
+                  "type": "p"
+                }
+              ],
+              "id": "495796005"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "2673761343",
+                  "type": "p"
+                }
+              ],
+              "id": "3341332388"
+            }
+          ],
+          "id": "1",
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "1683799247",
+                    "type": "p"
+                  }
+                ],
+                "id": "3327880207"
+              },
+              "id": "3740185219",
+              "rule": "input like {([a-z])\\w+}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "3490004972",
+                    "type": "p"
+                  }
+                ],
+                "id": "3235236130"
+              },
+              "id": "398235938",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "After looking at the example, do you think indentation is important in HTML like python to execute the HTML code properly?\n",
+      "transformations": []
+    },
+    "inputType": "textarea",
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "After looking at the example, do you think indentation is important in HTML like python to execute the HTML code properly?\n"
+            }
+          ],
+          "id": "2725486876",
+          "type": "p"
+        }
+      ],
+      "id": "1572954675"
+    }
+  },
+  "id": "7138",
+  "objectives": {
+    "1": []
+  },
+  "originalFile": "",
+  "subType": "oli_short_answer",
+  "tags": [],
+  "title": "Single Response",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

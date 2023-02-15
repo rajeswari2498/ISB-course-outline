@@ -1,0 +1,123 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "540372972",
+                  "type": "p"
+                }
+              ],
+              "id": "3541951379"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "724577139",
+                  "type": "p"
+                }
+              ],
+              "id": "1278234400"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "2724087677",
+                  "type": "p"
+                }
+              ],
+              "id": "2205848722"
+            }
+          ],
+          "id": "1",
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "2832367605",
+                    "type": "p"
+                  }
+                ],
+                "id": "827033573"
+              },
+              "id": "53909880",
+              "rule": "input like {([a-z])\\w+}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "659660011",
+                    "type": "p"
+                  }
+                ],
+                "id": "4158738666"
+              },
+              "id": "3889140742",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "How do you think it distinguishes everything? \n",
+      "transformations": []
+    },
+    "inputType": "textarea",
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "How do you think it distinguishes everything? \n"
+            }
+          ],
+          "id": "794161947",
+          "type": "p"
+        }
+      ],
+      "id": "767567751"
+    }
+  },
+  "id": "7257",
+  "objectives": {
+    "1": []
+  },
+  "originalFile": "",
+  "subType": "oli_short_answer",
+  "tags": [],
+  "title": "Single Response",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

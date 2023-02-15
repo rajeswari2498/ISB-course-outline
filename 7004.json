@@ -1,0 +1,48 @@
+{
+  "content": {
+    "model": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "id": "1317333013",
+            "type": "p"
+          }
+        ],
+        "id": "1572727542",
+        "purpose": "none",
+        "type": "content"
+      },
+      {
+        "count": 16,
+        "id": "1753645003",
+        "logic": {
+          "conditions": {
+            "fact": "tags",
+            "operator": "contains",
+            "value": [
+              6962
+            ]
+          }
+        },
+        "purpose": "none",
+        "type": "selection"
+      }
+    ],
+    "version": "0.1.0"
+  },
+  "id": "7004",
+  "isGraded": true,
+  "objectives": [
+    "6922"
+  ],
+  "originalFile": "",
+  "tags": [],
+  "title": "[Pre-Test] Introduction to HTML",
+  "type": "Page",
+  "unresolvedReferences": []
+}

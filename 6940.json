@@ -1,0 +1,194 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "gradingApproach": "automatic",
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "2413260950",
+                  "type": "p"
+                }
+              ],
+              "id": "2348108569"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "75703429",
+                  "type": "p"
+                }
+              ],
+              "id": "2550472158"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "2232744349",
+                  "type": "p"
+                }
+              ],
+              "id": "2245031776"
+            }
+          ],
+          "id": "1",
+          "outOf": null,
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's Awesome! 🤩Fullform of URL is Uniform Resourse Locator"
+                      }
+                    ],
+                    "id": "3915984575",
+                    "type": "p"
+                  }
+                ],
+                "id": "3117068212"
+              },
+              "id": "317880681",
+              "rule": "input like {2794637744}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's not the correct answer😕. But it's a learning moment for you!🤓"
+                      }
+                    ],
+                    "id": "105770749",
+                    "type": "p"
+                  }
+                ],
+                "id": "4096192652"
+              },
+              "id": "1460804062",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "URL stands for",
+      "targeted": [],
+      "transformations": [
+        {
+          "id": "3552466604",
+          "operation": "shuffle",
+          "path": "choices"
+        }
+      ],
+      "version": 2
+    },
+    "choices": [
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Universal Research List"
+              }
+            ],
+            "id": "355399013",
+            "type": "p"
+          }
+        ],
+        "id": "1335388106"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Uniform Research Locator"
+              }
+            ],
+            "id": "275862181",
+            "type": "p"
+          }
+        ],
+        "id": "1562508854"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Uniform Resourse Locator"
+              }
+            ],
+            "id": "4280876015",
+            "type": "p"
+          }
+        ],
+        "id": "2794637744"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "None of them"
+              }
+            ],
+            "id": "645603319",
+            "type": "p"
+          }
+        ],
+        "id": "4062918161"
+      }
+    ],
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "URL stands for"
+            }
+          ],
+          "id": "370356210",
+          "type": "p"
+        }
+      ],
+      "id": "2458589430"
+    }
+  },
+  "id": "6940",
+  "objectives": {
+    "1": [
+      "7772"
+    ]
+  },
+  "originalFile": "",
+  "subType": "oli_multiple_choice",
+  "tags": [
+    "6939"
+  ],
+  "title": "12",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

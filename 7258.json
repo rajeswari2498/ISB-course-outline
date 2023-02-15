@@ -1,0 +1,123 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "458831778",
+                  "type": "p"
+                }
+              ],
+              "id": "1094183593"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "1615518657",
+                  "type": "p"
+                }
+              ],
+              "id": "3484874381"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "3101169593",
+                  "type": "p"
+                }
+              ],
+              "id": "1684091264"
+            }
+          ],
+          "id": "1",
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "2902813829",
+                    "type": "p"
+                  }
+                ],
+                "id": "2687515109"
+              },
+              "id": "3253205340",
+              "rule": "input like {([a-z])\\w+}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "\n\n"
+                      }
+                    ],
+                    "id": "2265394887",
+                    "type": "p"
+                  }
+                ],
+                "id": "1270265114"
+              },
+              "id": "3369048683",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "Have you ever wondered how much data can fit into one single packet? Or how will you send huge data?",
+      "transformations": []
+    },
+    "inputType": "textarea",
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "Have you ever wondered how much data can fit into one single packet? Or how will you send huge data?"
+            }
+          ],
+          "id": "516422432",
+          "type": "p"
+        }
+      ],
+      "id": "4146670454"
+    }
+  },
+  "id": "7258",
+  "objectives": {
+    "1": []
+  },
+  "originalFile": "",
+  "subType": "oli_short_answer",
+  "tags": [],
+  "title": "Single Response",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

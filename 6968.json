@@ -1,0 +1,194 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "gradingApproach": "automatic",
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "1411273917",
+                  "type": "p"
+                }
+              ],
+              "id": "513051037"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "3885526943",
+                  "type": "p"
+                }
+              ],
+              "id": "1020931719"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "305521227",
+                  "type": "p"
+                }
+              ],
+              "id": "773604398"
+            }
+          ],
+          "id": "1",
+          "outOf": null,
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's Awesome! 🤩.  HTML programs can be read and rendered by the web browser. A web browser can support several web pages."
+                      }
+                    ],
+                    "id": "4066990364",
+                    "type": "p"
+                  }
+                ],
+                "id": "446423015"
+              },
+              "id": "2089925342",
+              "rule": "input like {991653450}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's not the correct answer😕. But it's a learning moment for you!🤓"
+                      }
+                    ],
+                    "id": "2483311830",
+                    "type": "p"
+                  }
+                ],
+                "id": "2068842142"
+              },
+              "id": "3389411638",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "\nA program in HTML can be rendered and read by ",
+      "targeted": [],
+      "transformations": [
+        {
+          "id": "2684380496",
+          "operation": "shuffle",
+          "path": "choices"
+        }
+      ],
+      "version": 2
+    },
+    "choices": [
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Server"
+              }
+            ],
+            "id": "759119645",
+            "type": "p"
+          }
+        ],
+        "id": "3135216114"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Interpreter"
+              }
+            ],
+            "id": "3043610580",
+            "type": "p"
+          }
+        ],
+        "id": "1290278279"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "Web browser"
+              }
+            ],
+            "id": "2091661784",
+            "type": "p"
+          }
+        ],
+        "id": "991653450"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "None of them"
+              }
+            ],
+            "id": "3485144793",
+            "type": "p"
+          }
+        ],
+        "id": "3424640829"
+      }
+    ],
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "\nA program in HTML can be rendered and read by "
+            }
+          ],
+          "id": "1676252821",
+          "type": "p"
+        }
+      ],
+      "id": "4037202540"
+    }
+  },
+  "id": "6968",
+  "objectives": {
+    "1": [
+      "6922"
+    ]
+  },
+  "originalFile": "",
+  "subType": "oli_multiple_choice",
+  "tags": [
+    "6962"
+  ],
+  "title": "25",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

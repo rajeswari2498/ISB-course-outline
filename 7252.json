@@ -1,0 +1,146 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "4216508283",
+                  "type": "p"
+                }
+              ],
+              "id": "342048466"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "2574462665",
+                  "type": "p"
+                }
+              ],
+              "id": "3218580641"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "3075643646",
+                  "type": "p"
+                }
+              ],
+              "id": "2908432781"
+            }
+          ],
+          "id": "1",
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "3392650784",
+                    "type": "p"
+                  }
+                ],
+                "id": "1845874832"
+              },
+              "id": "2124713866",
+              "rule": "input like {([a-z])\\w+}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "657370005",
+                    "type": "p"
+                  }
+                ],
+                "id": "803494736"
+              },
+              "id": "2051105788",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "\nNow, if you want to visit www.msit.ac.in, how do you think you will get the data to your laptop? \n",
+      "transformations": []
+    },
+    "inputType": "textarea",
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "\n"
+            },
+            {
+              "strong": true,
+              "text": "Now, if you want to visit "
+            },
+            {
+              "children": [
+                {
+                  "strong": true,
+                  "text": "www.msit.ac.in"
+                }
+              ],
+              "href": "http://#",
+              "id": "3715791203",
+              "target": "self",
+              "type": "a"
+            },
+            {
+              "strong": true,
+              "text": ", how do you think you will get the data to your laptop? "
+            },
+            {
+              "text": "\n"
+            }
+          ],
+          "id": "2989347696",
+          "type": "p"
+        }
+      ],
+      "id": "759376527"
+    }
+  },
+  "id": "7252",
+  "objectives": {
+    "1": []
+  },
+  "originalFile": "",
+  "subType": "oli_short_answer",
+  "tags": [],
+  "title": "Single Response",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

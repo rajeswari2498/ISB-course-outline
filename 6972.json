@@ -1,0 +1,194 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "gradingApproach": "automatic",
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "1668104569",
+                  "type": "p"
+                }
+              ],
+              "id": "1114960749"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "442744612",
+                  "type": "p"
+                }
+              ],
+              "id": "1326601144"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "2061950965",
+                  "type": "p"
+                }
+              ],
+              "id": "637481305"
+            }
+          ],
+          "id": "1",
+          "outOf": null,
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's Awesome! 🤩.tags are written in this format<>....</>"
+                      }
+                    ],
+                    "id": "3148532471",
+                    "type": "p"
+                  }
+                ],
+                "id": "559173603"
+              },
+              "id": "601390194",
+              "rule": "input like {571864108}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's not the correct answer😕. But it's a learning moment for you!🤓"
+                      }
+                    ],
+                    "id": "4006671666",
+                    "type": "p"
+                  }
+                ],
+                "id": "1345415391"
+              },
+              "id": "4089434308",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "Which of the following characters is used for closing a html tag?",
+      "targeted": [],
+      "transformations": [
+        {
+          "id": "1190317602",
+          "operation": "shuffle",
+          "path": "choices"
+        }
+      ],
+      "version": 2
+    },
+    "choices": [
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "\\"
+              }
+            ],
+            "id": "961800507",
+            "type": "p"
+          }
+        ],
+        "id": "3914275039"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "!"
+              }
+            ],
+            "id": "4161116756",
+            "type": "p"
+          }
+        ],
+        "id": "2509513562"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "/"
+              }
+            ],
+            "id": "1737559832",
+            "type": "p"
+          }
+        ],
+        "id": "571864108"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "."
+              }
+            ],
+            "id": "3857465267",
+            "type": "p"
+          }
+        ],
+        "id": "2131982873"
+      }
+    ],
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "Which of the following characters is used for closing a html tag?"
+            }
+          ],
+          "id": "426144684",
+          "type": "p"
+        }
+      ],
+      "id": "1834226849"
+    }
+  },
+  "id": "6972",
+  "objectives": {
+    "1": [
+      "6922"
+    ]
+  },
+  "originalFile": "",
+  "subType": "oli_multiple_choice",
+  "tags": [
+    "6971"
+  ],
+  "title": "27",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

@@ -1,0 +1,194 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "gradingApproach": "automatic",
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "1970372854",
+                  "type": "p"
+                }
+              ],
+              "id": "2288025741"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "2278749065",
+                  "type": "p"
+                }
+              ],
+              "id": "1188178105"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "1003465458",
+                  "type": "p"
+                }
+              ],
+              "id": "3660925772"
+            }
+          ],
+          "id": "1",
+          "outOf": null,
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's Awesome! 🤩.HTML is a language which is used for creating web pages"
+                      }
+                    ],
+                    "id": "500450825",
+                    "type": "p"
+                  }
+                ],
+                "id": "2960167649"
+              },
+              "id": "4205854554",
+              "rule": "input like {3679467319}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "That's not the correct answer😕. But it's a learning moment for you!🤓"
+                      }
+                    ],
+                    "id": "2517579448",
+                    "type": "p"
+                  }
+                ],
+                "id": "2901647003"
+              },
+              "id": "3791565474",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "_________________ is a language used for creating web pages",
+      "targeted": [],
+      "transformations": [
+        {
+          "id": "680484742",
+          "operation": "shuffle",
+          "path": "choices"
+        }
+      ],
+      "version": 2
+    },
+    "choices": [
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "HTTP"
+              }
+            ],
+            "id": "2623163331",
+            "type": "p"
+          }
+        ],
+        "id": "8765922"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "HTML"
+              }
+            ],
+            "id": "1213570025",
+            "type": "p"
+          }
+        ],
+        "id": "3679467319"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "FTTP"
+              }
+            ],
+            "id": "1278884284",
+            "type": "p"
+          }
+        ],
+        "id": "3802138667"
+      },
+      {
+        "content": [
+          {
+            "children": [
+              {
+                "text": "None of them"
+              }
+            ],
+            "id": "926442180",
+            "type": "p"
+          }
+        ],
+        "id": "982015705"
+      }
+    ],
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "_________________ is a language used for creating web pages"
+            }
+          ],
+          "id": "3568906877",
+          "type": "p"
+        }
+      ],
+      "id": "203826295"
+    }
+  },
+  "id": "6970",
+  "objectives": {
+    "1": [
+      "6922"
+    ]
+  },
+  "originalFile": "",
+  "subType": "oli_multiple_choice",
+  "tags": [
+    "6971"
+  ],
+  "title": "26",
+  "type": "Activity",
+  "unresolvedReferences": []
+}

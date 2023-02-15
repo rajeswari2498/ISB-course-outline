@@ -1,0 +1,123 @@
+{
+  "content": {
+    "authoring": {
+      "parts": [
+        {
+          "hints": [
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "3657096145",
+                  "type": "p"
+                }
+              ],
+              "id": "2574413105"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "12152481",
+                  "type": "p"
+                }
+              ],
+              "id": "1078520579"
+            },
+            {
+              "content": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "3895386893",
+                  "type": "p"
+                }
+              ],
+              "id": "339799213"
+            }
+          ],
+          "id": "1",
+          "responses": [
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "3311885556",
+                    "type": "p"
+                  }
+                ],
+                "id": "2420759416"
+              },
+              "id": "2670874789",
+              "rule": "input like {([a-z])\\w+}",
+              "score": 1
+            },
+            {
+              "feedback": {
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "id": "677861310",
+                    "type": "p"
+                  }
+                ],
+                "id": "3352761557"
+              },
+              "id": "2314291961",
+              "rule": "input like {.*}",
+              "score": 0
+            }
+          ],
+          "scoringStrategy": "average"
+        }
+      ],
+      "previewText": "Have you ever wondered how HTTP requests and responses work?\n\n",
+      "transformations": []
+    },
+    "inputType": "textarea",
+    "stem": {
+      "content": [
+        {
+          "children": [
+            {
+              "text": "Have you ever wondered how HTTP requests and responses work?\n\n"
+            }
+          ],
+          "id": "1341497955",
+          "type": "p"
+        }
+      ],
+      "id": "3994287738"
+    }
+  },
+  "id": "7267",
+  "objectives": {
+    "1": []
+  },
+  "originalFile": "",
+  "subType": "oli_short_answer",
+  "tags": [],
+  "title": "Single Response",
+  "type": "Activity",
+  "unresolvedReferences": []
+}
